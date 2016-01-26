@@ -33,42 +33,42 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
   - Variable Hoisting
   - Scope
   - Basic Javascript with the DOM
-  - Eventslisteners
+  - Events Listeners
   - Developer Tools & Debugging (Source and Console)
   - Array Functions
     - `map`, `reduce`, `filter`, `forEach`
 * Week 4
-  - Web Servers
-    - Express.js
   - What is Application State?
   - Prototypes
   - Handlebars
   - Underscore & extends
   - jQuery basics
+  - `window.fetch`
 * Week 5
-  - More events
-  - AJAX
-  - Testing JS
-  - Backbone Models & Collections
-  - Backbone Views
-  - Backbone Routing
+  - Intro to Testing
+  - Browser Events
+  - AJAX vs Fetch
+  - Browser support
 * Week 6
-  - Ember Routes
+  - Ember CLI
+  - Ember's Application Route
   - Ember Components
-  - Ember Data
-  - // Trello
+    - `didInsertElement`
+    - `click`
 * Week 7
-  - Express.js
-  - MongoDB
+  - Ember Actions
+  - Ember Template Helpers
+    * Filtering
+    * Logic
+    * Etc
+  - Ember Data
 * Week 8
-  - Ember Addons
+  - Ember Authentication
   - Ember Testing
-    + Unit Tests
-    + Unit Tests
-    + Acceptance Tests
-    + Mirage
+    * Unit Testing Helpers
+    + Integration Tests
     + Acceptance Tests
 * Week 9
-  - Ember Testing
-    + Page Objects
-  - Advanced Ember Data
+  - APIs
+  - Review
+  - Ember Opinionated
