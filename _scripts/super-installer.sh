@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# The Iron Yard - Little Rock - FEE June 2015
+# The Iron Yard - Nashville - FEE Spring 2016
 # Super Install Script
 #
 # Heavily borrowing on the shoulders of giants

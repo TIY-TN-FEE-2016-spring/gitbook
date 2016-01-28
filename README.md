@@ -1,6 +1,6 @@
-# Front End Engineering Fall 2015
+# Front End Engineering Spring 2016
 
-## Little Rock Arkansas
+## Nashville!!!
 
 Welcome to the crazy land of Front End Engineering!
 Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready to be a junior front end developer.
