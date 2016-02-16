@@ -21,12 +21,12 @@ console.log(x + z);
 console.log(x + b);
 
 /* Results (Printed statements from console.logs) */
-// 5
-// "helloworld"
-// "hello world"
-// "world 2"
-// "2hello"
-// "22"
+//
+//
+//
+//
+//
+//
 ```
 
 ## Topics

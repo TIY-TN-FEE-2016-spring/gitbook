@@ -23,28 +23,28 @@ console.log(x !== a);
 console.log(x !== z);
 
 // When you see console.assert fill in the _ to make the statement true
-console.assert(x - y === -1);
-console.assert(x + y === 5);
-console.assert(z / x === 2);
-console.assert(x * y === 6);
-console.assert(x % y === 2);
+console.assert(x _ y === -1);
+console.assert(x _ y === 5);
+console.assert(z _ x === 2);
+console.assert(x _ y === 6);
+console.assert(x _ y === 2);
 
 /* Results (Printed statements from console.logs) */
-// true
-// false
-// true
-// false
-// false
-// false
-// true
-// true
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* Answers (Filled in _ for console.asserts) */
-// -
-// +
-// /
-// *
-// %
+//
+//
+//
+//
+//
 ```
 
 ## Topics

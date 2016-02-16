@@ -1,9 +1,9 @@
 # HTML Basics
 
-## Parts of All HTML Elements
+## The Stuff that HTML is Made of
 
 HTML is broken into small pieces called elements.
-Elements are specific pieces of text that allow you to interact with your user (usually, but not always this means displaying something in their browser).
+Elements are specific pieces of content that allow you to interact with your user (usually, but not always this means displaying something in their browser).
 
 At their core, there are four pieces that can be included in an HTML element:
 
@@ -18,14 +18,16 @@ At a minimum, each element must include a tag declaration.
 This is made up of an opening angle bracket, a tag name, and a closing angle bracket.
 Some HTML elements only require an opening tag.
 
-    <div>
+```html
+<div>
+```
 
 In HTML the tag name is important: it defines how a user will interact with the data you are providing to them.
-For instance a `p` tag shows paragraph text while an `input` takes in user input.
+For instance a `p` tag shows paragraph text while an `input` accepts user input as a text box.
 
 ### Closing Tags
 
-For most HTML elements, you will want to add content (the next section in these notes).
+For most HTML elements, you will want to add content within an element (the next section in these notes).
 To do this, we need a way to tell when a tag ends
 
 > A wild closing tag appears!
@@ -33,7 +35,9 @@ To do this, we need a way to tell when a tag ends
 Closing tags look fairly similar to opening tags, but differ in one major way:
 between the opening angle bracket and the tag name, closing tags have a forward slash (`/`).
 
-    </div>
+```html
+</div>
+```
 
 ### Content
 
@@ -41,7 +45,7 @@ Sandwiched between the opening and closing tags of an HTML element is that eleme
 This can take one of two forms:
 
 * Plain text
-* More HTML - [It's turtles all the way down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)
+* More HTML - [It's turtles all the way down](https://xkcd.com/889)
 
 Including HTML within an element is called nesting and allows us to group similar and related content together.
 This nesting can also be helpful when we look at styling the page and working with CSS.

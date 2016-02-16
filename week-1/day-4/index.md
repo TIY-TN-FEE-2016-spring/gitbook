@@ -25,15 +25,15 @@ console.log(b === c);
 console.log(c === d);
 
 /* Results (Printed statements from console.logs) */
-// false
-// false
-// 1
-// true
-// true
-// "hello"
-// [1, 2, 3]
-// false
-// true
+//
+//
+//
+//
+//
+//
+//
+//
+//
 ```
 
 ## Topics
