@@ -10,24 +10,50 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
 * [Prework](prework/index.html)
 * Download Day
   - Setup, Shortcuts, Programs, and the Command Line
-    - .editorconfig
-    - Atom Plugins
+    * .editorconfig
+    * Atom Plugins
 * Week 1
-  - Git
-  - Console Rundown
-  - Review HTML Basics
-  - Review CSS Basics
-  - [Don't Overthink it Grids](https://css-tricks.com/dont-overthink-it-grids/)
-  - Reset vs Normalize vs Modernizr
-  - Developer Tools (Inspect Element)
-  - // How to be a Professional Science Dog
+  - Monday
+    * Git & Console
+    * HTML Basics
+      - Elements
+      - Attributes
+      - Classes
+    * CSS Basics
+      - Selectors
+      - Properties
+    * Chrome Dev Tools
+  - Tuesday
+    * Box Sizing
+      - Border Box
+    * Display
+    * Floats
+  - Wednesday
+    * Positioning
+    * Transform
+    * Breaking Down a Layout
+    * Emmet Show and Tell
 * Week 2
-  - Bower
-  - Responsive CSS
-  - Build Tools
-  - SASS
-  - Bourbon
-  - Neat
+  - Monday
+    * Basic Builds
+    * SASS
+      - Variables
+      - Imports
+  - Tuesday
+    * Media Queries
+    * Pseudo Selectors
+  - Wednesday
+    * Selector Specificity
+    * BEM
+    * Layout Planning
+    * Reinforce Semantic Markup
+  - Thursday
+    * Third Party Libraries & NPM
+      - Font Awesome
+    * SASS Extends
+      - CSS Gram
+    * SASS Mixins
+      - Yoga SASS
 * Week 3
   - JS Syntax
   - Variable Hoisting
@@ -36,7 +62,7 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
   - Events Listeners
   - Developer Tools & Debugging (Source and Console)
   - Array Functions
-    - `map`, `reduce`, `filter`, `forEach`
+    * `map`, `reduce`, `filter`, `forEach`
 * Week 4
   - What is Application State?
   - Prototypes
@@ -53,8 +79,8 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
   - Ember CLI
   - Ember's Application Route
   - Ember Components
-    - `didInsertElement`
-    - `click`
+    * `didInsertElement`
+    * `click`
 * Week 7
   - Ember Actions
   - Ember Template Helpers
