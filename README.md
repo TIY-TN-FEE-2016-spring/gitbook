@@ -55,32 +55,72 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
     * SASS Mixins
       - Yoga SASS
 * Week 3
-  - JS Syntax
-  - Variable Hoisting
-  - Scope
-  - Basic Javascript with the DOM
-  - Events Listeners
-  - Developer Tools & Debugging (Source and Console)
-  - Array Functions
-    * `map`, `reduce`, `filter`, `forEach`
+  - Monday
+    * JS
+      - Variables
+      - Maths
+      - Strings
+      - Arrays & Objects
+      - Functions
+      - `if` & `else` Blocks
+      - `for` Blocks
+  - Tuesday
+    * Variable Scope
+    * Hoisting
+    * Function Creation
+    * ES2015 Classes
+  - Wednesday
+    * Debugging
+    * DOM Elements
+      - `innerHTML`
+      - `classList`
+  - Thursday
+    * Callbacks
+    * Array Functions
+      - `map`, `filter`, `forEach`
+    * Event Listeners
 * Week 4
-  - What is Application State?
-  - Prototypes
-  - Handlebars
-  - Underscore & extends
-  - jQuery basics
-  - `window.fetch`
+  - Monday
+    * Functional Programming
+      - Reduce
+      - Add
+      - Multiply
+      - Composition
+  - Tuesday
+    * Unit Testing
+  - Wednesday
+    * Babel
+    * Transpilation
+    * Prototypes
+  - Thursday
+    * `window.fetch`
+    * Acceptance Tests
 * Week 5
-  - Intro to Testing
-  - Browser Events
-  - AJAX vs Fetch
-  - Browser support
+  - Monday
+    * jQuery
+      - Selectors
+      - Traversal
+      - Events
+  - Tuesday
+    * Site Visit
+  - Wednesday
+    * Handlebars
+  - Thursday
+    * Lab
+  - Friday
+    * Introduction to Ember Templates
 * Week 6
-  - Ember CLI
-  - Ember's Application Route
-  - Ember Components
-    * `didInsertElement`
-    * `click`
+  - Monday
+    * Application Route
+    * Unit Testing
+      - Filtering
+      - Reducing
+    * Handlebars Helpers
+  - Tuesday
+    * Acceptance Testing
+    * Routing
+    * Actions
+    * `input`
 * Week 7
   - Ember Actions
   - Ember Template Helpers
