@@ -28,6 +28,9 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
       - Border Box
     * Display
     * Floats
+    * Layout Patterns
+      - Double Container
+      - Media Box Example
   - Wednesday
     * Positioning
     * Transform
@@ -111,6 +114,7 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
     * Introduction to Ember Templates
 * Week 6
   - Monday
+    * Application Template
     * Application Route
     * Unit Testing
       - Filtering

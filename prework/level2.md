@@ -50,7 +50,7 @@ But, before you get started, check out this video from github on how to create n
 Go to the assignment repo for this class and do the following:
 
 
-* **https://github.com/tiy-lr-fee-2015-fall/assignments**
+* **https://github.com/TIY-TN-FEE-2016-spring/assignments**
 
 * Add a bookmark to the assignment repo in your bookmark bar
 * Click on the issues link to the right

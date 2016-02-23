@@ -60,7 +60,7 @@ For this Level:
 
 - Sign up for a GitHub account at [https://github.com](https://github.com/)
 - Set up your profile with First and Last name as well as a profile picture of you (not an avatar please): this will help me learn your names faster
-- [Email me](mailto:ryan@theironyard.com) with the username you choose so that I can add you to the [class organization](https://github.com/TIY-LR-FEE-2015-Fall)
+- [Email me](mailto:ryan@theironyard.com) with the username you choose so that I can add you to the [class organization](https://github.com/TIY-TN-FEE-2016-spring)
 
 ## Command Line - 1 Hour
 

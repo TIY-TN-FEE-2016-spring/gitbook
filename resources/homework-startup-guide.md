@@ -4,7 +4,7 @@ When starting on new homework assignments things can get a bit tough.
 These notes will not tell you the exact commands that you will need to run, but it will at least list out the different steps so you know what you are missing.
 These steps can be seen in this video: https://vimeo.com/user29630009/review/143529884/9d8ab4c348
 
-1. Create a new issue in the [class assignments repo](https://github.com/tiy-lr-fee-2015-fall/assignments)
+1. Create a new issue in the [class assignments repo](https://github.com/TIY-TN-FEE-2016-spring/assignments)
     * Create todos for all listed requirements
 1. Create a new directory for the day's assignment named to match the folder name for the assignment you are working on.
 2. Make sure that your shell is in the newly created folder

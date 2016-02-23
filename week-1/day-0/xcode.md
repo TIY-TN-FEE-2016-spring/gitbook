@@ -44,7 +44,7 @@ brew install wget
 To try this out, let's grab a file:
 
 ```
-wget https://raw.githubusercontent.com/TIY-LR-FEE-2015-Fall/gitbook/master/_examples/hello-world.sh
+wget https://raw.githubusercontent.com/TIY-TN-FEE-2016-spring/gitbook/master/_examples/hello-world.sh
 ```
 
 Now we should have a new file in our current directory:

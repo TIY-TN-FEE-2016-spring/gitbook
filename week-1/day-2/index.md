@@ -57,7 +57,7 @@ console.assert(x _ y === 2);
 
 * Build the HackerNews Navbar
 
-https://github.com/TIY-LR-FEE-2015-Fall/lesson-01-02
+https://github.com/TIY-TN-FEE-2016-spring/lesson-01-02
 
 ## Lab
 
@@ -66,7 +66,7 @@ https://github.com/TIY-LR-FEE-2015-Fall/lesson-01-02
 
 ## Homework
 
-https://github.com/TIY-LR-FEE-2015-Fall/assignments/tree/master/03-octocat-grid
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/03-octocat-grid
 
 ## Resources
 
