@@ -1,7 +1,9 @@
-# Monday October 19
+# Monday February 29
 
 
 ## Daily JS
+
+Variable assignment and primitive data types
 
 ```js
 var x = 1;

@@ -1,5 +1,4 @@
-# Thursday October 22
-
+# Thursday March 3
 
 ## Daily JS
 
@@ -18,7 +17,7 @@ console.log(x === y);
 console.log(x == y);
 console.log(x[0]);
 console.log(y[0] === x[0]);
-console.log(z[0] === x); // Should print true
+console.log(z[0] === x);
 console.log(a.another);
 console.log(a['something']); // How far does it go?
 console.log(b === c);
@@ -59,5 +58,4 @@ https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/04-timeline
 ## Resources
 
 * [Common Device Sizes](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
-* [Typographic Grid]
-* [Line Height](https://css-tricks.com/fun-line-height/)
+* Typographic Grid
