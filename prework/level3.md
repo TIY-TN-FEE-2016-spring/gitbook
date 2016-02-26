@@ -1,9 +1,5 @@
 # Level 3
 
-> **NOTE** I am currently still working on the prework for the spring class and recommendations and additional resources may change (shouldn't be too drastic).
-> To stay up to date on any changes, [star this Gitbook](https://www.gitbook.com/book/rtablada/nashville-spring/details) and you will get a daily summary of all changes.
-> You will will want this for class anyway as this will become a prime source for extra notes and review.
-
 Most of this level reviews past content using Codeschool.
 Codeschool adds video along with challenges (some of the videos can be a bit campy).
 It is my preference for video along with coding challenges for the following materials, but if you do not have a Codeschool account, you can find the same lessons in Level 4 on Team Treehouse (which has a 14 Day Trial).

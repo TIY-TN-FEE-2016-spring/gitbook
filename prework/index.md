@@ -1,9 +1,5 @@
 # Prework
 
-> **NOTE** I am currently still working on the prework for the spring class and recommendations and additional resources may change (shouldn't be too drastic).
-> To stay up to date on any changes, [star this Gitbook](https://www.gitbook.com/book/rtablada/nashville-spring/details) and you will get a daily summary of all changes.
-> You will will want this for class anyway as this will become a prime source for extra notes and review.
-
 > **IMPORTANT** Do your best not to install any developer tools until the install party unless you are directed to in this gitbook (not the provided materials). The closer your Mac is to being a blank slate (at least when it comes to developer tools), the faster the install party will go.
 
 Before we can really get moving, there are some base skills that are needed to keep up with the pace that we have planned for you.
