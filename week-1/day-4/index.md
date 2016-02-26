@@ -43,6 +43,12 @@ console.log(c === d);
 * [Flex Box](flex-box.html)
 * [Media Queries](media-queries.html)
 
+## Inspiration
+
+### Tumblr Splash Page
+
+[![Tumblr Splash Page](./tumblr.png)](./tumblr.png)
+
 ## Exercise & Lesson Code
 
 ## Lab

@@ -33,6 +33,12 @@ console.log(a);
 - [Basic CSS Properties](properties.html)
 - [Git Basics](git.html)
 
+## Inspiration
+
+### Laravel Home Page (ish)
+
+[![Laravel Home Page](./laravel.png)](./laravel.png)
+
 ## Lab
 
 - House Keeping
