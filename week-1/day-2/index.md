@@ -55,18 +55,17 @@ console.assert(x _ y === 2);
 
 ## Exercise & Lesson Code
 
-* Build the HackerNews Navbar
-
-https://github.com/TIY-TN-FEE-2016-spring/lesson-01-02
-
 ## Lab
 
-* Set Upstream Branches - `git push -u`
-* [Keyboard Shortcuts](../../resources/keyboard-shortcuts.html)
+## Video
+
+* [Rethinking Base Styles](https://youtu.be/EjiTIIs_3N4)
+  - REM
+  - Base Font Sizes
 
 ## Homework
 
-https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/03-octocat-grid
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/03-position-layout
 
 ## Resources
 

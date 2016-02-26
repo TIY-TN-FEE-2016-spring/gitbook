@@ -45,4 +45,4 @@ console.log(a);
 
 ## Homework
 
-https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/02-basic-git-pr
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/01-html-introduction

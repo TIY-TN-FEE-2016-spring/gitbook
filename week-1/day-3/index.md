@@ -44,26 +44,31 @@ console.log(x + b);
 * [CSS `attr` value](attr.html)
 * [CSS Position](position.html)
 * [CSS Transform](transform.html)
+* [Layout Types (Fluid vs Fixed)](layout-types.html)
 
 ## Exercise & Lesson Code
 
-https://github.com/TIY-TN-FEE-2016-spring/lesson-01-03
-
 ## Lab
 
-* [Reset vs Normalize](reseting.html)
-* INSTALL SPECTACLE!!!
-* [Layout Types (Fluid vs Fixed)](layout-types.html)
-* [Font Awesome](http://fontawesome.io/)
-* CDNs and Hot Linking
+## Video
+
+* [Component Independence & Layout Strategies](https://youtu.be/ofSnkJ9tPPM)
+  - Double Container
+  - Negative Margin
+  - `calc`
+  - Outside In Layouts
+  - Jamaican-ized Pattern
+  - Don't use `height`?
+  - Components vs Layout
+  - Lobotomized Owl `* + *`
 
 ## Homework
 
-https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/04-timeline
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/03-position-layout
 
 ## Resources
 
-* [Don't Overthink it Grids](https://css-tricks.com/dont-overthink-it-grids/)
+<!-- * [Don't Overthink it Grids](https://css-tricks.com/dont-overthink-it-grids/)
 * [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
 * [Choosing a Layout Type - 2009](http://www.smashingmagazine.com/2009/06/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/)
-* [Fluid Layout Tutorial](http://www.creativebloq.com/css3/create-fluid-layouts-html5-and-css3-3142768)
+* [Fluid Layout Tutorial](http://www.creativebloq.com/css3/create-fluid-layouts-html5-and-css3-3142768) -->
