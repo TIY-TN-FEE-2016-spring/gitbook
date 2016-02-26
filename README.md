@@ -22,15 +22,15 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
     * CSS Basics
       - Selectors
       - Properties
-    * Chrome Dev Tools
   - Tuesday
     * Box Sizing
       - Border Box
+    * Chrome Dev Tools
     * Display
     * Floats
     * Layout Patterns
       - Double Container
-      - Media Box Example
+      - Media Object
   - Wednesday
     * Positioning
     * Transform

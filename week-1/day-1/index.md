@@ -31,6 +31,7 @@ console.log(a);
 - [Common HTML Elements](elements.html)
 - [Basic CSS Selectors](selectors.html)
 - [Basic CSS Properties](properties.html)
+- [Git Basics](git.html)
 
 ## Lab
 
@@ -40,8 +41,6 @@ console.log(a);
   - Seat Swapping
 - [Homework Process](homework.html)
 - Example Homework
-  - [Github Example](https://github.com/TIY-TN-FEE-2016-spring/example-hw)
-  - [Issue](https://github.com/TIY-TN-FEE-2016-spring/assignments/issues)
 
 ## Homework
 

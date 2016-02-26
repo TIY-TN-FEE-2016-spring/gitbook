@@ -46,6 +46,16 @@ console.log(x + b);
 * [CSS Transform](transform.html)
 * [Layout Types (Fluid vs Fixed)](layout-types.html)
 
+## Inspiration
+
+### Netflix Profile
+
+![Netflix Profile](./netflix.png)
+
+### Twitter Dashboard
+
+![Twitter Dashboard](./twitter.png)
+
 ## Exercise & Lesson Code
 
 ## Lab

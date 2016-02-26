@@ -50,8 +50,17 @@ console.assert(x _ y === 2);
 ## Topics
 
 * [CSS Box Model](box-model.html)
+* [Chrome Dev Tools for CSS & HTML](dev-tools.html)
 * [CSS Display](display.html)
 * [CSS Floats](float.html)
+* [Double Container](double-container.html)
+* [Media Object](media-object.html)
+
+## Inspiration
+
+### Buzzfeed Top Nine List
+
+[![Buzzfeed Top Nine List](./buzzfeed.png)](./buzzfeed.png)
 
 ## Exercise & Lesson Code
 
@@ -62,6 +71,10 @@ console.assert(x _ y === 2);
 * [Rethinking Base Styles](https://youtu.be/EjiTIIs_3N4)
   - REM
   - Base Font Sizes
+  - When to use `margin`
+  - Reseting `ul`
+  - Don't break the defaults
+  - Viewport Units
 
 ## Homework
 
