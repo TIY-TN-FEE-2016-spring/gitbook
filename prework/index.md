@@ -34,8 +34,6 @@ The more practice you get under your fingers before we even start day one: the m
 Don't just take my word for it!
 Here is an article from a TIY alum about their thoughts on Prework: http://jordanscodinglife.blogspot.com/2015/04/the-20-actions-front-end-students.html
 
-> this permalink no longer works: you will have to click on "The 20 Actions Front En.." from the article sidebar. 😒
-
 Follow the exercises listed on this prework (I've included a lot of the things listed on the above linked list), but that article might give you an idea of what sort of difference prework will make for your experience!
 
 ## What Now?
