@@ -4,17 +4,17 @@ When working from the terminal there are a few file based commands that are used
 
 ## Common Commands
 
-- `cd`
-- `mkdir`
-- `touch`
-- `open`
-- `ls`
-- `pwd`
-- `mv`
-- `cp`
-- `rm`
-- `echo`
-- `less`
+- `cd` - Change Directory
+- `mkdir` - Make a new Directory
+- `touch` - Make a new file
+- `open` - Open file or directory with the default program (based on extension)
+- `ls` - List all contents of a Directory
+- `pwd` - Print current path
+- `mv` - Move or rename a file or directory
+- `cp` - Copy file or directory
+- `rm` - Remove file or directory
+- `echo` - Print out some text
+- `less` - Open a file in a read only state
 
 ## Exit Codes
 
