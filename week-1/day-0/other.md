@@ -8,8 +8,8 @@ This will help make sure that our system shortcuts are set up so that we can all
 [Poll](http://strawpoll.me/6949681)
 
 By default, Apple ships OSX setup to use "Natural Scrolling".
-This can feel good on the trackpad, but is a real weird experience on external mice and when jumping from Mac to PC.
-So we will turn off this feature to make sure no one is left behind or confused when trying to work in groups.
+This can feel good on the trackpad, but is a real weird experience on external mice and when jumping between Mac and PC.
+We'll vote on the best fit for the full class and what people are use to and then have one setting across everyone's machine to aid in working together in groups.
 
 ## Flux
 
