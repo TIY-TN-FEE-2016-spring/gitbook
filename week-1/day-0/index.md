@@ -9,6 +9,6 @@ The focus of the install party is to get you comfortable with the shell, make su
 * [XCode and Brew](xcode.html)
 * [Super Install Script](super-installer.html)
 * [SSH Keys](ssh.html)
-* [Sublime Text Configuration](atomime.html)
+* [Atom Configuration](atom.html)
 * [Zsh](zsh.html)
 * [Other](other.html)

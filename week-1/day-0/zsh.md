@@ -38,7 +38,7 @@ When this finishes running, you'll already notice that your shell prompt is much
 
 Now let's make one last change to ZSH before we move on.
 
-- Run `atom ~/.zshrc` to open the ZSH config file in Sublime Text
+- Run `atom ~/.zshrc` to open the ZSH config file in Atom
 - Where it says `ZSH_THEME` change it from `robbyrussel` to `doubleend`
 
 This change will let you see the full path of your current session so you won't have to keep running `pwd`.

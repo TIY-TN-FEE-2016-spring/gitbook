@@ -61,5 +61,5 @@ apps=(
 echo "installing apps..."
 brew cask install --appdir="/Applications" ${apps[@]}
 
-echo "Setting Git to use Sublime Text as default editor"
+echo "Setting Git to use Atom as default editor"
 git config --global core.editor "atom -n -w"
