@@ -26,13 +26,9 @@ brew install zsh
 
 While zsh can be SUPER powerful, it also can be a pain to get things properly set up.
 Oh-My-ZSH is a tool that will configure ZSH and allows for a ton of themes, plugins, and more.
-To install oh-my-zsh run the following command:
 
-```
-sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
-wget https://gist.githubusercontent.com/rtablada/616652322eb096a0e476/raw/a5e595962a155583ff162a5940b3a65e971bab79/batcharge.py ~/bin
-wget https://gist.githubusercontent.com/rtablada/616652322eb096a0e476/raw/a5e595962a155583ff162a5940b3a65e971bab79/doubleend.zsh-theme ~/.oh-my-zsh/themes
-```
+
+The super installer has pulled in ZSH and a default theme we'll use for this course.
 
 When this finishes running, you'll already notice that your shell prompt is much more colorful.
 
