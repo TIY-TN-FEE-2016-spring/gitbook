@@ -101,11 +101,11 @@ But, it does not know where to store your settings.
 Usually, you would have to create a new gist and then backup your existing settings.
 But, since `sync-settings` just reads and writes to gists, it can tricked it into using my base settings to get you a head start.
 
-To do this go to https://gist.github.com/rtablada/8079c102889d23ab6c63 and click on the "Fork" button on the right hand side.
+To do this go to https://gist.github.com/rtablada/f553df022c14c7f7878c and click on the "Fork" button on the right hand side.
 This will make a copy of my settings on your Github account.
 Now you can copy the last part of the URL (after your username) and past that in the input for `sync-settings` where it asks for a "Gist ID".
 
-Now to start pulling in these settings just pull up your Command Pallete (`CMD+SHIFT+P`) and then type "restore" to find the option "Sync Settings: Restore" and hit enter.
+Now to start pulling in these settings just pull up your Command Palette (`CMD+SHIFT+P`) and then type "restore" to find the option "Sync Settings: Restore" and hit enter.
 Now you may see some flashes and breaks on your screen.
 What is happening is that `sync-settings` first pulls in configuration files before starting to install every package individually: since some of the configured themes and plugins haven't been installed, you may see some issues until the installation finishes.
 
