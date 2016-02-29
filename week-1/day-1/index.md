@@ -18,10 +18,10 @@ console.log(z);
 console.log(a);
 
 /* Results */
-//
-//
-//
-//
+// 2
+// "abc"
+// true
+// 1
 ```
 
 ## Topics
@@ -29,6 +29,7 @@ console.log(a);
 - [HTML Elements and Attributes](html.html)
 - [Boilerplate Valid HTML](boilerplate.html)
 - [Common HTML Elements](elements.html)
+- [Periodic Table of (HTML) Elements](../../resources/html/table-of-elements.html)
 - [Basic CSS Selectors](selectors.html)
 - [Basic CSS Properties](properties.html)
 - [Git Basics](git.html)
@@ -38,6 +39,11 @@ console.log(a);
 ### Laravel Home Page (ish)
 
 [![Laravel Home Page](./laravel.png)](./laravel.png)
+
+### Whiteboards
+
+![HTML](./whiteboard-html.jpg)
+![CSS](./whiteboard-css.jpg)
 
 ## Lab
 
