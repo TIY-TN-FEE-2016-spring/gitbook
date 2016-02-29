@@ -30,8 +30,7 @@ console.log(a);
 - [Boilerplate Valid HTML](boilerplate.html)
 - [Common HTML Elements](elements.html)
 - [Periodic Table of (HTML) Elements](../../resources/html/table-of-elements.html)
-- [Basic CSS Selectors](selectors.html)
-- [Basic CSS Properties](properties.html)
+
 - [Git Basics](git.html)
 
 ## Inspiration
@@ -43,16 +42,17 @@ console.log(a);
 ### Whiteboards
 
 ![HTML](./whiteboard-html.jpg)
-![CSS](./whiteboard-css.jpg)
 
 ## Lab
 
-- House Keeping
-  - Do Not Disturb Mode
-  - Keyboard Stuff
-  - Seat Swapping
-- [Homework Process](homework.html)
-- Example Homework
+- [CSS Syntax](css-syntax.html)
+- [Basic CSS Selectors](selectors.html)
+- [Basic CSS Properties](properties.html)
+- Homework
+
+### Whiteboards
+
+![CSS](./whiteboard-css.jpg)
 
 ## Homework
 

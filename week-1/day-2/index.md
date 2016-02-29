@@ -66,6 +66,12 @@ console.assert(x _ y === 2);
 
 ## Lab
 
+- House Keeping
+  - Do Not Disturb Mode
+  - Keyboard Stuff
+  - Seat Swapping
+- [Homework Process](homework.html)
+
 ## Video
 
 * [Rethinking Base Styles](https://youtu.be/EjiTIIs_3N4)
