@@ -31,6 +31,11 @@ console.log(x + b);
 
 ## Topics
 
+- House Keeping
+  * Do Not Disturb Mode
+  * Keyboard Stuff
+  * Seat Swapping
+
 * Semantic HTML Elements
   - `header`
   - `footer`

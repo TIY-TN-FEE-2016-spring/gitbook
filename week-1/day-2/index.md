@@ -42,12 +42,16 @@ console.assert(x % y === 2); // Remainder of division
 
 ## Topics
 
-* [CSS Box Model](box-model.html)
+* **[CSS Waterfall](css-waterfall.html)**
+* **[Inherit](inherit.html)**
+* **[CSS Units](units.html)**
 * [Chrome Dev Tools for CSS & HTML](dev-tools.html)
+* [CSS Box Model & Boreder Box](box-model.html)
+
+
 * [CSS Display](display.html)
 * [CSS Floats](float.html)
 * [Double Container](double-container.html)
-* [Media Object](media-object.html)
 
 ## Inspiration
 
@@ -59,11 +63,9 @@ console.assert(x % y === 2); // Remainder of division
 
 ## Lab
 
-- House Keeping
-  - Do Not Disturb Mode
-  - Keyboard Stuff
-  - Seat Swapping
-- [Homework Process](homework.html)
+- [Simple Float Grids](float-grids.html)
+- [Media Object](media-object.html)
+
 
 ## Video
 
@@ -77,7 +79,7 @@ console.assert(x % y === 2); // Remainder of division
 
 ## Homework
 
-https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/03-position-layout
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/02-box-model
 
 ## Resources
 
