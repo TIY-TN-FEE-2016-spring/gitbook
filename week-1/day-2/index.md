@@ -61,6 +61,8 @@ console.assert(x % y === 2); // Remainder of division
 
 ## Exercise & Lesson Code
 
+- [https://github.com/TIY-TN-FEE-2016-spring/lesson-01-02](https://github.com/TIY-TN-FEE-2016-spring/lesson-01-02)
+
 ## Lab
 
 - [Simple Float Grids](float-grids.html)

@@ -43,6 +43,10 @@ console.log(a);
 
 ![HTML](./whiteboard-html.jpg)
 
+## Code from Class
+
+- [https://github.com/TIY-TN-FEE-2016-spring/lesson-01-02](https://github.com/TIY-TN-FEE-2016-spring/lesson-01-02)
+
 ## Lab
 
 - [CSS Syntax](css-syntax.html)
