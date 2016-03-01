@@ -43,7 +43,7 @@ console.log(a);
 
 ![HTML](./whiteboard-html.jpg)
 
-## Code from Class
+## Exercise & Lesson Code
 
 - [https://github.com/TIY-TN-FEE-2016-spring/lesson-01-02](https://github.com/TIY-TN-FEE-2016-spring/lesson-01-02)
 
