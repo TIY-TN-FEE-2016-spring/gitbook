@@ -35,6 +35,8 @@ console.log(x + b);
   - Do Not Disturb Mode
   - Keyboard Stuff
   - Seat Switching
+  - Power
+  - Questions
   - Standups
     * Going Well
     * Needs Work
