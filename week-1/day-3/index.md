@@ -11,22 +11,20 @@ var y = 3;
 var z = 'hello';
 var a = 'world';
 var b = '2';
-var c = `${a} ${b}`;
+var c = `${a} foo ${b}`;
+var d = `foo`;
+var e = `${x} + ${y} = ${x + y}`;
+var f = x + ' + ' + y + ' = ' + (x + y);
 
-console.log(x + y);
-console.log(z + a);
-console.log(z + ' ' + a);
-console.log(c);
-console.log(x + z);
-console.log(x + b);
-
-/* Results (Printed statements from console.logs) */
-//
-//
-//
-//
-//
-//
+console.log(x + y); // 5
+console.log(z + a); // "helloworld"
+console.log(z + ' ' + a); // "hello world"
+console.log(c); // "world foo 2"
+console.log(d); // "foo"
+console.log(e); // "2 + 3 = 5"
+console.log(x + z); // "2hello"
+console.log(x + b); // "22"
+console.log(x + Math.parseInt(b)); // 4
 ```
 
 ## Topics
@@ -34,7 +32,6 @@ console.log(x + b);
 * House Keeping
   - New Wifi
   - Do Not Disturb Mode
-  - Keyboard Stuff
   - Seat Switching
   - Power
   - Questions
@@ -56,6 +53,9 @@ console.log(x + b);
 * [CSS Transform](transform.html)
 * [Layout Types (Fluid vs Fixed)](layout-types.html)
 * **[Breaking Down a Layout](layout-planning.html)**
+  - Marker Analogy
+  - Post-It Note
+  - Jamaican-ized Approach
 * **[Reusable Elements](reusable-elements.html)**
 <!-- * [Full Screen Backgrounds](backgrounds.html) -->
 <!-- * [CSS Pseudo Selectors](pseudo-selectors.html) -->
