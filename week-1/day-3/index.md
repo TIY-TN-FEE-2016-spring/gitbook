@@ -41,7 +41,7 @@ console.log(x + b);
 > And I only lied because we were trying to destroy your morale.
 
 * [Homework Todo List](../../resources/homework-process.md)
-* **[Git](git.html)**
+* **[Git Basics](git-basics.html)**
 
 * [CSS Position](position.html)
 * [CSS Transform](transform.html)
