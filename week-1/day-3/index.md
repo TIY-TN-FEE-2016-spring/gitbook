@@ -73,6 +73,8 @@ console.log(x + Math.parseInt(b)); // 4
 
 ## Exercise & Lesson Code
 
+https://github.com/TIY-TN-FEE-2016-spring/lesson-01-03
+
 ## Lab
 
 ## Video
