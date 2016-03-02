@@ -31,10 +31,11 @@ console.log(x + b);
 
 ## Topics
 
-- House Keeping
-  * Do Not Disturb Mode
-  * Keyboard Stuff
-  * Seat Swapping
+* House Keeping
+  - Do Not Disturb Mode
+  - Keyboard Stuff
+  - Seat Swapping
+* [Homework Todo List](../../resources/homework-process.md)
 
 * Semantic HTML Elements
   - `header`
@@ -44,7 +45,7 @@ console.log(x + b);
   - `article`
   - `section`
   - `main`
-* [Full Screen Backgrounds](backgrounds.html)
+<!-- * [Full Screen Backgrounds](backgrounds.html) -->
 * [CSS Pseudo Selectors](pseudo-selectors.html)
 * [CSS `attr` value](attr.html)
 * [CSS Position](position.html)
