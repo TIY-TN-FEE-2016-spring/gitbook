@@ -42,5 +42,5 @@
 * Resources
   - [Keyboard Shortcuts](resources/keyboard-shortcuts.md)
   - [Shell Prompt](resources/shell.md)
-  - [Homework Preflight Checklist](resources/homework-startup-guide.md)
+  - [Homework Checklist](resources/homework-process.md)
   - [Default Project Structure](resources/project-structure.md)

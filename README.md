@@ -30,12 +30,13 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
     * Floats
     * Layout Patterns
       - Double Container
-      - Media Object
   - Wednesday
     * Positioning
     * Transform
     * Breaking Down a Layout
     * Emmet Show and Tell
+    * Reusable Patterns
+      - Media Object
 * Week 2
   - Monday
     * Basic Builds

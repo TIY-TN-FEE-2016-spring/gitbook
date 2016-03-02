@@ -34,23 +34,23 @@ console.log(x + b);
 * House Keeping
   - Do Not Disturb Mode
   - Keyboard Stuff
-  - Seat Swapping
-* [Homework Todo List](../../resources/homework-process.md)
+  - Seat Switching
 
-* Semantic HTML Elements
-  - `header`
-  - `footer`
-  - `aside`
-  - `figure` & `figcaption`
-  - `article`
-  - `section`
-  - `main`
-<!-- * [Full Screen Backgrounds](backgrounds.html) -->
-* [CSS Pseudo Selectors](pseudo-selectors.html)
-* [CSS `attr` value](attr.html)
+> I was lying about shift-switching.
+> I like doing it, I like saying it - shift-switching.
+> And I only lied because we were trying to destroy your morale.
+
+* [Homework Todo List](../../resources/homework-process.md)
+* **[Git](git.html)**
+
 * [CSS Position](position.html)
 * [CSS Transform](transform.html)
 * [Layout Types (Fluid vs Fixed)](layout-types.html)
+* **[Breaking Down a Layout](layout-planning.html)**
+* **[Reusable Elements](reusable-elements.html)**
+<!-- * [Full Screen Backgrounds](backgrounds.html) -->
+<!-- * [CSS Pseudo Selectors](pseudo-selectors.html) -->
+<!-- * [CSS `attr` value](attr.html) -->
 
 ## Inspiration
 
