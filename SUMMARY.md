@@ -23,6 +23,7 @@
       * [CSS Selectors](week-1/day-1/selectors.md)
       * [CSS Properties](week-1/day-1/properties.md)
     + [Day 2](week-1/day-2/index.md)
+      * [CSS Waterfall](week-1/day-2/css-waterfall.md)
       * [CSS Box Model](week-1/day-2/box-model.md)
       * [CSS display](week-1/day-2/display.md)
       * [CSS float](week-1/day-2/float.md)
