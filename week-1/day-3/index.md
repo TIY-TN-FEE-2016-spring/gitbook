@@ -32,6 +32,7 @@ console.log(x + b);
 ## Topics
 
 * House Keeping
+  - New Wifi
   - Do Not Disturb Mode
   - Keyboard Stuff
   - Seat Switching
