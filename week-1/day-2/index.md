@@ -44,14 +44,14 @@ console.assert(x % y === 2); // Remainder of division
 
 * [CSS Waterfall](css-waterfall.html)
 * [Inherit](inherit.html)
-* **[CSS Units](units.html)**
+* **[px, rem, and em Units](units.html)**
 * [Chrome Dev Tools for CSS & HTML](dev-tools.html)
 * [CSS Box Model & Boreder Box](box-model.html)
 
 
 * [CSS Display](display.html)
 * [CSS Floats](float.html)
-* [Double Container](double-container.html)
+* **[Double Container](double-container.html)**
 
 ## Inspiration
 
