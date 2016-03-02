@@ -35,6 +35,11 @@ console.log(x + b);
   - Do Not Disturb Mode
   - Keyboard Stuff
   - Seat Switching
+  - Standups
+    * Going Well
+    * Needs Work
+    * Share from the Field
+    * Learned
 
 > I was lying about shift-switching.
 > I like doing it, I like saying it - shift-switching.
