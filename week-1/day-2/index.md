@@ -43,7 +43,7 @@ console.assert(x % y === 2); // Remainder of division
 ## Topics
 
 * [CSS Waterfall](css-waterfall.html)
-* **[Inherit](inherit.html)**
+* [Inherit](inherit.html)
 * **[CSS Units](units.html)**
 * [Chrome Dev Tools for CSS & HTML](dev-tools.html)
 * [CSS Box Model & Boreder Box](box-model.html)
