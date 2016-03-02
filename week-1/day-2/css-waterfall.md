@@ -31,13 +31,13 @@ The element `<ul class="top-nav container">...</ul>` would go through the follow
 ```
 
  .container    .top-nav
------------------------|
-                       |
-                       |      ul.top-nav
-                       |-------------------------|
-                                                 |
-                                                 |
-                                                 |----------
+~~~~~~~~~~~~~~~~~~~~~~~|)
+                       |(
+                       |)      ul.top-nav
+                       |~~~~~~~~~~~~~~~~~~~~~~~~~|)
+                                                 |(
+                                                 |)
+                                                 |~~~~~~~~~~~~~~~~~~~~~~~
 ```
 
 So along the river, the element would first visit the styles for `.container` and pick up a `max-width: 200px` and `margin: auto`.
