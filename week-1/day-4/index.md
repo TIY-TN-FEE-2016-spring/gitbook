@@ -69,13 +69,15 @@ console.log(c === d);
 
 ## Exercise & Lesson Code
 
+https://github.com/TIY-TN-FEE-2016-spring/lesson-01-04
+
 ## Lab
 
-## Video
+### Video
 
 [Content Driven Layouts with Flexbox](https://youtu.be/R53ehAOaVpk)
 
-## Exercise
+### Exercise
 
 [Flexbox Froggy](http://flexboxfroggy.com/)
 
