@@ -40,7 +40,6 @@ console.log(c === d);
 * House Keeping
   - Importance of Assignments
     * Portfolio
-    *
 * **[`vh` and `vw` Units](vh-vw.html)**
 * [Flex Box](flex-box.html)
   - Flex Parent vs Flex Children `display: flex`
