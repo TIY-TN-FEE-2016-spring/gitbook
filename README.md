@@ -35,6 +35,8 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
     * Transform
     * Breaking Down a Layout
     * Emmet Show and Tell
+  - Thursday
+    * Flexbox
     * Reusable Patterns
       - Media Object
 * Week 2

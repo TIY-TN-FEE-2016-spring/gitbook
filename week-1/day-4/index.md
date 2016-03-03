@@ -37,13 +37,32 @@ console.log(c === d);
 
 ## Topics
 
-* [Example Layout](https://raw.githubusercontent.com/TIY-Austin-Front-End-Engineering/mobile-layout-2/master/stage4.png)
+* House Keeping
+  - Importance of Assignments
+    * Portfolio
+    *
+* **[`vh` and `vw` Units](vh-vw.html)**
+* [Flex Box](flex-box.html)
+  - Flex Parent vs Flex Children `display: flex`
+  - `flex-direction` (Parent)
+    * Primary Axis
+  - `flex-basis`, `flex-grow`, `flex-shrink` (Child)
+  - `flex-wrap` (Parent)
+* **[Moving Flexbox Content](flex-box-moving.html)**
+  - `justify-content` vs `align-items` (Parent)
+  - `align-content` (Parent)
+  - `align-self` (Child)
+* **Flexbox Patterns**
+  - Sticky Footer
+
 * [Breaking Down a Layout](layout-planning.html)
 * [Layout Techniques](layout-tricks.html)
-* [Flex Box](flex-box.html)
-* [Media Queries](media-queries.html)
 
 ## Inspiration
+
+### Octocat Grid
+
+[![Octocat Grid](./octodex.png)](./octodex.png)
 
 ### Tumblr Splash Page
 
@@ -52,6 +71,14 @@ console.log(c === d);
 ## Exercise & Lesson Code
 
 ## Lab
+
+## Video
+
+[Content Driven Layouts with Flexbox](https://youtu.be/R53ehAOaVpk)
+
+## Exercise
+
+[Flexbox Froggy](http://flexboxfroggy.com/)
 
 ## Homework
 
