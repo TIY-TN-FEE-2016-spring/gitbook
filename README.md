@@ -42,6 +42,7 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
 * Week 2
   - Monday
     * Basic Builds
+    * BEM & Best Practices
     * SASS
       - Variables
       - Imports

@@ -67,10 +67,6 @@ console.log(x + Math.parseInt(b)); // 4
 
 ![Netflix Profile](./netflix.png)
 
-### Twitter Dashboard
-
-![Twitter Dashboard](./twitter.png)
-
 ## Exercise & Lesson Code
 
 https://github.com/TIY-TN-FEE-2016-spring/lesson-01-03
