@@ -68,4 +68,4 @@ With proper planning, this section can be small modifications to only a few rule
 While not part of the SMACSS spec, there are many times where we may need to make small tweaks to elements on our page.
 This is often called "blame" when working in agencies or teams.
 It includes the small tweaks that you have to do to make things work on all browsers, or fixes for strange bugs.
-Blame and modifications are often set aside in hopes that they can eventually be removed or at least that they live in a section alone so that they don't hinder ongoing development with questions like "`display: relative; top: -0.2px`? Why is this here?".
+Blame and modifications are often set aside in hopes that they can eventually be removed or at least that they live in a section alone so that they don't hinder ongoing development with questions like "`position: relative; top: -0.2px`? Why is this here?".
