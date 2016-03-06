@@ -41,8 +41,10 @@
       * [Media Queries](week-1/day-4/media-queries.md)
   - Week 2
     + [Day 1](week-2/day-1/index.md)
+      * [Organizing](week-2/day-1/organizing.md)
     + [Day 2](week-2/day-2/index.md)
     + [Day 3](week-2/day-3/index.md)
+      * [Organizing](week-2/day-3/bem.md)
     + [Day 4](week-2/day-4/index.md)
 * Resources
   - [Keyboard Shortcuts](resources/keyboard-shortcuts.md)
