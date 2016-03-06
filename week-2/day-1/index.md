@@ -61,7 +61,6 @@ console.log(c === d);
 * SASS Variables
 * [Organizing Code](./organizing.html)
 * SASS Imports
-* [BEM](./bem.html)
 * SASS Nesting
 
 ## Inspiration
@@ -79,6 +78,8 @@ https://github.com/TIY-TN-FEE-2016-spring/lesson-02-01
 ## Lab JS
 
 We missed "Daily JS" last Thursday so let's make that up here.
+
+### Functions and Fat Arrow Syntax
 
 ```js
 var x = function() {
