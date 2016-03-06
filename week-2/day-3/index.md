@@ -1,4 +1,4 @@
-# Thursday March 7
+# Wednesday March 9
 
 ## Daily JS
 
@@ -40,7 +40,7 @@ console.log(z.setName('Han', 'Solo'));
 console.log(z.fullName());
 ```
 
-## Interuptions
+## Interruptions
 
 * None
 
@@ -53,16 +53,16 @@ console.log(z.fullName());
 
 ## Topics
 
-* [BEM](./bem.html)
+*
 
 ## Inspiration
 
 ## Exercise & Lesson Code
 
-https://github.com/TIY-TN-FEE-2016-spring/lesson-02-01
+https://github.com/TIY-TN-FEE-2016-spring/lesson-02-03
 
 ## Lab
 
 ## Homework
 
-https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/07-flex-forms
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/07-pricing-page

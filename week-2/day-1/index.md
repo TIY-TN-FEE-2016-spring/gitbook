@@ -1,4 +1,4 @@
-# Thursday March 7
+# Monday March 7
 
 ## Daily JS
 
@@ -35,7 +35,7 @@ console.log(c === d);
 //
 ```
 
-## Interuptions
+## Interruptions
 
 * None
 
