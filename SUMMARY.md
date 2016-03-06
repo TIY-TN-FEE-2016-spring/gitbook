@@ -39,6 +39,11 @@
       * [Layout Tricks](week-1/day-4/layout-tricks.md)
       * [Flexbox](week-1/day-4/flex-box.md)
       * [Media Queries](week-1/day-4/media-queries.md)
+  - Week 2
+    + [Day 1](week-2/day-1/index.md)
+    + [Day 2](week-2/day-2/index.md)
+    + [Day 3](week-2/day-3/index.md)
+    + [Day 4](week-2/day-4/index.md)
 * Resources
   - [Keyboard Shortcuts](resources/keyboard-shortcuts.md)
   - [Shell Prompt](resources/shell.md)
