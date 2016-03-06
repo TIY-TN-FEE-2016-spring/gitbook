@@ -58,10 +58,15 @@ console.log(c === d);
   - Why do we use them?
   - What are we using?
     * Why that one?
+* Scaffold
+  - `npm install -g yeoman-cli generator-sass-broccoli`
+  - `yo sass-broccoli`
 * SASS Variables
 * [Organizing Code](./organizing.html)
 * SASS Imports
 * SASS Nesting
+* SASS Lint
+  - `apm install linter-sass-lint`
 
 ## Inspiration
 

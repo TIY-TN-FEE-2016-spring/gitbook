@@ -45,9 +45,11 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
     * SASS
       - Variables
       - Imports
+    * SASS Lint
   - Tuesday
     * Media Queries
     * Pseudo Selectors
+    * Pseudo Elements
   - Wednesday
     * Selector Specificity
     * BEM

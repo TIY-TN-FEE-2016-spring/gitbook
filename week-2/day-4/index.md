@@ -91,7 +91,11 @@ if (a(10)) {
 
 ## Topics
 
-*
+* Modifying Build Tools
+* SASS Extends
+  - CSS Gram
+* SASS Mixins
+  - Yoga Sass
 
 ## Inspiration
 

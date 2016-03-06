@@ -58,7 +58,10 @@ console.log(b(y, x));
 
 ## Topics
 
-*
+* Media Queries
+* Pseudo Selectors
+* Pseudo Elements
+* CSS `content`
 
 ## Inspiration
 

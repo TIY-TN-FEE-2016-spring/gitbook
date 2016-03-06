@@ -53,7 +53,10 @@ console.log(z.fullName());
 
 ## Topics
 
-*
+* [Selector Specificity](specificity.html)
+* [BEM](bem.html)
+* [Layout Planning & Components](components.html)
+* [Semantic Markup](semantic-markup.html)
 
 ## Inspiration
 
