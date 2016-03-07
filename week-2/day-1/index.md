@@ -22,22 +22,11 @@ console.log(a.another);
 console.log(a['something']); // How far does it go?
 console.log(b === c);
 console.log(c === d);
-
-/* Results (Printed statements from console.logs) */
-//
-//
-//
-//
-//
-//
-//
-//
-//
 ```
 
 ## Interruptions
 
-* None
+* Lunch 12:30-1:30
 
 ## Standups
 

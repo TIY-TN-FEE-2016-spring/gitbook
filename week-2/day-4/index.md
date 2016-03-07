@@ -80,7 +80,7 @@ if (a(10)) {
 
 ## Interruptions
 
-* None
+* Lunch Calls 12:00-1:30
 
 ## Standups
 
