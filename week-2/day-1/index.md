@@ -8,7 +8,10 @@ Arrays and Objects (all ES6 like)
 var x = [1, 2, 3];
 var y = [1, 2, 3];
 var z = [x, y];
-var a = {'something': x, another: 'hello'};
+var a = {
+  'something': x,
+  another: 'hello'
+};
 var b = {x, y};
 var c = {x, y};
 var d = c;
@@ -43,7 +46,8 @@ console.log(c === d);
 * Backlog vs Sleep
 * Ask Questions Early and Often!
 * Containers
-* Shifting items
+* Shifting items around
+* Too much too fast (focus on one thing at a time)
 
 ## Topics
 
