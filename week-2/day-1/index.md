@@ -23,8 +23,8 @@ console.log(y[0] === x[0]); // true
 console.log(z[0] === x); // true
 console.log(a.firstName); // "Ryan"
 console.log(a['favorite-numbers']); // [1, 2, 3]
-console.log(b === c); //
-console.log(c === d);
+console.log(b === c); // false
+console.log(c === d); // true
 ```
 
 ## Interruptions
