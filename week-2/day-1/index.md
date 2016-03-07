@@ -35,6 +35,16 @@ console.log(c === d);
 * What's something you'd like to share not about code?
 * What's something you've learned
 
+### Common Struggles
+
+* Git Commands
+* When to flexbox vs when to use `position`
+* Position Relative
+* Backlog vs Sleep
+* Ask Questions Early and Often!
+* Containers
+* Shifting items
+
 ## Topics
 
 * Build Tools
