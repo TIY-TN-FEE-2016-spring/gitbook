@@ -9,8 +9,8 @@ var x = [1, 2, 3];
 var y = [1, 2, 3];
 var z = [x, y];
 var a = {
-  'some-thing': x,
-  another: 'hello'
+  'favorite-numbers': x,
+  firstName: 'Ryan'
 };
 var b = {x, y};
 var c = {x, y};
@@ -21,9 +21,9 @@ console.log(x == y); // false
 console.log(x[0]); // 1
 console.log(y[0] === x[0]); // true
 console.log(z[0] === x); // true
-console.log(a.another); // "hello"
-console.log(a['some-thing']); // [1, 2, 3]
-console.log(b === c);
+console.log(a.firstName); // "Ryan"
+console.log(a['favorite-numbers']); // [1, 2, 3]
+console.log(b === c); //
 console.log(c === d);
 ```
 
