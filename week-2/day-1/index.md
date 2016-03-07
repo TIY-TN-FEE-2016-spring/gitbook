@@ -50,12 +50,12 @@ console.log(c === d);
 * Scaffold
   - `npm install -g yeoman-cli generator-sass-broccoli`
   - `yo sass-broccoli`
+* SASS Lint
+  - `apm install linter-sass-lint`
 * SASS Variables
 * [Organizing Code](./organizing.html)
 * SASS Imports
 * SASS Nesting
-* SASS Lint
-  - `apm install linter-sass-lint`
 
 ## Inspiration
 
