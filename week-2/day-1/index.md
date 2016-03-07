@@ -62,7 +62,7 @@ console.log(c === d); // true
   - What are we using?
     * Why that one?
 * Scaffold
-  - `npm install -g yeoman-cli generator-sass-broccoli`
+  - `npm install -g yo generator-sass-broccoli`
   - `yo sass-broccoli`
 * SASS Lint
   - `apm install linter-sass-lint`
