@@ -116,4 +116,4 @@ console.log(a());
 
 ## Homework
 
-https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/05-flex-forms
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/05-form-modal
