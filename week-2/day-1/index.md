@@ -9,20 +9,20 @@ var x = [1, 2, 3];
 var y = [1, 2, 3];
 var z = [x, y];
 var a = {
-  'something': x,
+  'some-thing': x,
   another: 'hello'
 };
 var b = {x, y};
 var c = {x, y};
 var d = c;
 
-console.log(x === y);
-console.log(x == y);
-console.log(x[0]);
-console.log(y[0] === x[0]);
-console.log(z[0] === x);
-console.log(a.another);
-console.log(a['something']); // How far does it go?
+console.log(x === y); // false
+console.log(x == y); // false
+console.log(x[0]); // 1
+console.log(y[0] === x[0]); // true
+console.log(z[0] === x); // true
+console.log(a.another); // "hello"
+console.log(a['some-thing']); // [1, 2, 3]
 console.log(b === c);
 console.log(c === d);
 ```
