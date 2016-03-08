@@ -24,11 +24,11 @@ var a = () => {
 };
 
 
-console.log(x);
-console.log(x());
-console.log(y());
-console.log(z());
-console.log(a());
+console.log(x); // function() { console.log('hello') }
+console.log(x()); // "hello" // undefined
+console.log(y()); // "world" // undefined
+console.log(z()); // "yup" // undefined
+console.log(a()); // "no"
 ```
 
 ### Function Arguments
@@ -74,7 +74,7 @@ console.log(b(y, x));
 
 ## Interruptions
 
-* None
+* Meeting 12:30-1:30
 
 ## Standups
 
@@ -83,8 +83,18 @@ console.log(b(y, x));
 * What's something you'd like to share not about code?
 * What's something you've learned
 
+### Common Struggles
+
+* Breaking Down Components and Wireframes
+* Flex Wrap, Flex Grow, Flex Shrink
+* Layout
+* `align-items` vs `justify-content`
+*
+
 ## Topics
 
+* Resources
+  -
 * Media Queries
 * Pseudo Selectors
 * Pseudo Elements
