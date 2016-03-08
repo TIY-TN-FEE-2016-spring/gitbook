@@ -83,37 +83,6 @@ https://github.com/TIY-TN-FEE-2016-spring/lesson-02-01
 
 ## Lab
 
-## Lab JS
-
-We missed "Daily JS" last Thursday so let's make that up here.
-
-### Functions and Fat Arrow Syntax
-
-```js
-var x = function() {
-  console.log('hello');
-};
-
-function y() {
-  console.log('world');
-}
-
-var z = () => {
-  console.log('yup');
-};
-
-var a = () => {
-  return 'no';
-};
-
-
-console.log(x);
-console.log(x());
-console.log(y());
-console.log(z());
-console.log(a());
-```
-
 ## Homework
 
 https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/05-form-modal
