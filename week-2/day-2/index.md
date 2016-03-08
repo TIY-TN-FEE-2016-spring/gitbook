@@ -4,6 +4,33 @@
 
 ## Daily JS
 
+### Functions and Fat Arrow Syntax
+
+```js
+var x = function() {
+  console.log('hello');
+};
+
+function y() {
+  console.log('world');
+}
+
+var z = () => {
+  console.log('yup');
+};
+
+var a = () => {
+  return 'no';
+};
+
+
+console.log(x);
+console.log(x());
+console.log(y());
+console.log(z());
+console.log(a());
+```
+
 ### Function Arguments
 
 When looking at variables or arguments inside of functions, if they are created in the function itself just rename it `functionName_variableName` so that it is clear that these variables are DIFFERENT than variables that exist outside of that function.
