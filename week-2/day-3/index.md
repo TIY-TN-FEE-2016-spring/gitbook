@@ -26,21 +26,21 @@ var a = (x = 9, y = 10, z = 2) => {
   return x * y;
 };
 
-var b = (x, y) => {
-  return x(y);
+var b = (cb, value) => {
+  return cb(value);
 };
 
 
-console.log(y(12));
-console.log(y('hello'));
-console.log(foo);
-console.log(y(x));
-console.log(z('Five'));
-console.log(a(15, 2));
-console.log(x);
-console.log(a());
-console.log(a(41));
-console.log(b(y, x));
+console.log(y(12)); // 12
+console.log(y('hello')); // "hello"
+console.log(foo); // undefined
+console.log(y(x)); // 2
+console.log(z('Five')); // "Five2"
+console.log(a(15, 2)); // 30
+console.log(x); // 2
+console.log(a()); // 90
+console.log(a(41)); // 410
+console.log(b(y, x)); // 2
 ```
 
 ### Objects and an intro to `this`
@@ -92,16 +92,45 @@ console.log(z.fullName());
 * What's something you'd like to share not about code?
 * What's something you've learned
 
+### Common Wins
+
+* Faster Typing
+* HTML
+* Some Flexbox
+* Take **Meaningful** Breaks
+* Think "Out to In"
+* Slowly Making Sense
+* More Comfort in Code
+  - Seems like 2 days ago is starting to click
+
+### Common Struggles
+
+* "Aha" moments kick you in the butt
+* Sleep & Energy
+* **Starting Projects**
+* Backlog
+* Time Management
+* Positioning
+  - Box Sizing
+  - Position
+  - Float
+  - Flex
+* Slowly Making Sense
+
 ## Topics
 
 * Focus and Time Management
   - [Tab Wrangler](https://chrome.google.com/webstore/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh?hl=en)
   - [Paradox of Choice](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice?language=en)
+  - Music Playlists
+* [Tips for Starting](../../resources/getting-started.html)
+* When to Commit?
 * [Selector Specificity](specificity.html)
 * [BEM](bem.html)
 * Refactoring - Scott Pilgrim ଘ(੭*ˊᵕˋ)੭* ̀ˋ ɪɴᴛᴇʀɴᴇᴛs
 * [Layout Planning & Components](components.html)
 * [Semantic Markup](semantic-markup.html)
+
 
 ## Inspiration
 
