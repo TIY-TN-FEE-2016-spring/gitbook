@@ -99,6 +99,7 @@ console.log(z.fullName());
   - [Paradox of Choice](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice?language=en)
 * [Selector Specificity](specificity.html)
 * [BEM](bem.html)
+* Refactoring - Scott Pilgrim ଘ(੭*ˊᵕˋ)੭* ̀ˋ ɪɴᴛᴇʀɴᴇᴛs
 * [Layout Planning & Components](components.html)
 * [Semantic Markup](semantic-markup.html)
 
