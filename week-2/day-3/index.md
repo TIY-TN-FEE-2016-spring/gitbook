@@ -84,12 +84,7 @@ console.log(b(y, x)); // 2
 * Focus and Time Management
   - [Tab Wrangler](https://chrome.google.com/webstore/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh?hl=en)
   - [Paradox of Choice](https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice?language=en)
-  - Music Playlists
-    * [Epic Soundtracks](https://open.spotify.com/user/rtablada/playlist/1jJOPHbPXhgQhStBU3kloF)
-    * [Afternoon Accoustic](https://open.spotify.com/user/spotify/playlist/16BpjqQV1Ey0HeDueNDSYz)
-    * [Soul Coffee](https://open.spotify.com/user/spotify/playlist/5xb0yJS0ZQn8FhLa3YO1fs)
-    * [Twitch Indie](https://open.spotify.com/user/twitchfm/playlist/09ExFhh6ZlScYqUgN4edRh)
-    * [Twitch Chiptune](https://open.spotify.com/user/twitchfm/playlist/0mXVMgtLdLrkblse4ugYol)
+  - [Music Playlists](../../resources/playlists.html)
 * [Tips for Starting](../../resources/getting-started.html)
 * When to Commit?
 * [Selector Specificity](specificity.html)

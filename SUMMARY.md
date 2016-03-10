@@ -49,5 +49,6 @@
 * Resources
   - [Keyboard Shortcuts](resources/keyboard-shortcuts.md)
   - [Shell Prompt](resources/shell.md)
+  - [Playlists](resources/playlists.md)
   - [Homework Checklist](resources/homework-process.md)
   - [Default Project Structure](resources/project-structure.md)
