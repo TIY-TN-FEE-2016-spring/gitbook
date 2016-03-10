@@ -2,6 +2,52 @@
 
 ## Daily JS
 
+### Objects and an intro to `this`
+
+```js
+var x = function(one) {
+  return one + 10;
+};
+
+var y = function() {
+  return this.firstName;
+};
+
+var z = {
+  firstName: 'John',
+  lastName: 'Doe',
+
+  somethingCool: x,
+
+  getFirstName: y,
+
+  fullName: function() {
+    return `${this.firstName} ${this.lastName}`;
+  },
+
+  setName(first, last) { // setName: function(first, last) {
+    this.firstName = first;
+    this.lastName = last;
+  },
+};
+
+console.log(x(12)); // 22
+console.log(y()); // Exception: Cannot lookup property "firstName" of undefined
+console.log(z.firstName);  // "John"
+console.log(z.somethingCool(8)); // 18
+console.log(z.getFirstName()); // "John"
+console.log(z.fullName()); // "John Doe"
+z.setName('Han', 'Solo');
+console.log(z.fullName()); // "Han Solo"
+z.firstName = "Luke";
+z.lastName = "Skywalker";
+console.log(z.fullName("Foo", "Bar")); // "Luke Skywalker"
+z.lastName = "Organa";
+console.log(z.fullName()); // "Luke Organa"
+z.setName("Jar Jar");
+console.log(z.fullName()); // "Jar Jar undefined"
+```
+
 ### Logic and "Truthiness"
 
 ```js

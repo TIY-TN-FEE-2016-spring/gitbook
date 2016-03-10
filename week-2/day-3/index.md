@@ -43,44 +43,6 @@ console.log(a(41)); // 410
 console.log(b(y, x)); // 2
 ```
 
-### Objects and an intro to `this`
-
-```js
-var x = function(one) {
-  return one + 10;
-};
-
-var y = function() {
-  return this.firstName;
-};
-
-var z = {
-  firstName: 'John',
-  lastName: 'Doe',
-
-  somethingCool: x,
-
-  getFirstName: y,
-
-  fullName: function() {
-    return `${this.firstName} ${this.lastName}`;
-  },
-
-  setName(first, last) { // setName: function(first, last) {
-    this.firstName = first;
-    this.lastName = last;
-  },
-};
-
-console.log(x(12));
-console.log(y());
-console.log(z.firstName);
-console.log(z.somethingCool(8)); // Same a x(8)
-console.log(z.getFirstName());
-console.log(z.setName('Han', 'Solo'));
-console.log(z.fullName());
-```
-
 ## Interruptions
 
 * None
