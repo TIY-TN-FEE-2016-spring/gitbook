@@ -124,9 +124,11 @@ if (a(10)) {
 |                       |                |
 |                       |                |
 
-## Interruptions
+## Interruptions and Events
 
-* Lunch Calls 12:00-1:30
+* Lunch Calls 12:00-1:30PM
+* Planning for Crash Course?
+* Crash Course SQL Basics & Intro to Java 6:15 PM
 
 ## Standups
 
@@ -134,6 +136,23 @@ if (a(10)) {
 * What is not going well (what are you struggling with)?
 * What's something you'd like to share not about code?
 * What's something you've learned
+
+### Common Wins
+
+* Starting to get Flexbox
+* Keep things simple
+* Look at what you know compared to last week
+* Dev Tools are your friend
+* Don't stare at code, try things out
+
+### Common Struggles
+
+* Catch what you can from class
+* Writing TOO MUCH code (side effects)
+* Line-Height
+* Positioning
+* Box Sizing
+* Timing and Backlog
 
 ## Topics
 
