@@ -156,4 +156,4 @@ https://github.com/TIY-TN-FEE-2016-spring/lesson-03-01
 
 ## Homework
 
-https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/08-functions
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/08-functions-tdd
