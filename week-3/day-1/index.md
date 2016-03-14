@@ -126,11 +126,18 @@ console.log(c);
 
 ### Common Wins
 
-*
+* Starting to know what we're doing (2 weeks ago is starting to feel good)
+* Starting to catch up
+* Ask for help (it helps)
+* Try things out
 
 ### Common Struggles
 
-*
+* Navbar and Footer
+* Get stuck on things for too long
+* Backlog Planning
+* Time Management
+* Time Pressure
 
 ## Topics
 
