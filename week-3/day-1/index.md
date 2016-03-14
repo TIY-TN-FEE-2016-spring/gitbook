@@ -1,6 +1,10 @@
 # Monday March 14
 
 
+## Interruptions & Events
+
+* 2-5PM 1 on 1s
+
 ## Remember
 
 ![No Time To Explain](no-time-to-explain.png)
@@ -28,60 +32,53 @@ var a = (foo) => {
   }
 }
 
+var noexist;
+
 if (x) {
-  console.log(`x is truthy?`);
+  console.log(`x is truthy?`); // "x is truthy?"
 }
 
 if (hi) {
-  console.log(`hi is truthy?`);
+  console.log(`hi is truthy?`); //
 }
 
-if (noexist) {
+if (noexist) { // undefined
   console.log(`noexist is truthy?`);
 }
 
 if (y) {
-  console.log(`y is truthy?`);
+  console.log(`y is truthy?`); // "y is truthy?"
 }
 
 if (z) {
-  console.log(`z is truthy?`);
+  console.log(`z is truthy?`); // "z is truthy"
 }
 
-if (y(`10`)) {
+if (y(`10`)) { // returns false
   console.log(`y('10') is truthy?`);
 }
 
-if (a()) {
+if (a()) { // Does not log, returns nothing
   console.log(`a() is truthy?`);
 }
 
-if (a(null)) {
+if (a(null)) { // Does not log, returns nothing
   console.log(`a(null) is truthy?`);
 }
 
-if (a(10)) {
+if (a(10)) { // Log "a works with 10", returns nothing
   console.log(`a(10) is truthy?`);
 }
-
-
-/* Results */
-//
-//
-//
-//
-//
-//
 ```
 
-| Truthy                | Falsey         |
-| :-------------        | :------------- |
-|                       |                |
-|                       |                |
-|                       |                |
-|                       |                |
-|                       |                |
-|                       |                |
+| Truthy                 | Falsey         |
+| :-------------         | :------------- |
+| true                   | false          |
+| Numbers not 0          | undefined      |
+| Non-Empty Strings      | null           |
+| Objects                | 0              |
+| Arrays (check .length) | Empty Strings  |
+| Functions              | NaN            |
 
 ### Value vs Reference
 
@@ -118,21 +115,22 @@ console.log(z);
 console.log(a);
 console.log(b);
 console.log(c);
-
-/* Results */
-// 10
-// 12
-// "Tim"
-// "Tim"
-// [15, 100, 30]
-// [15, 100, 30]
-// 10
-// 12
-// {firstName: "Tim"}
-// [15, 100, 30]
-// [15, 100, 30]
-// [15, 100, 30]
 ```
+
+## Standups
+
+* What is going well?
+* What is not going well (what are you struggling with)?
+* What's something you'd like to share not about code?
+* What's something you've learned
+
+### Common Wins
+
+*
+
+### Common Struggles
+
+*
 
 ## Topics
 
