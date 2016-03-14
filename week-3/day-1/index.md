@@ -90,31 +90,34 @@ x = 10;
 var y = x;
 y = 12;
 
-console.log(x);
-console.log(y);
+console.log(x); // 10
+console.log(y); // 12
 
 var z = {firstName: 'Bob'};
+console.log(z.firstName); // "Bob"
+
 var a = z;
 a.firstName = 'Tim';
+a = {firstName: 'Jan'};
 
-console.log(z.firstName);
-console.log(a.firstName);
+console.log(z.firstName); // "Tim"
+console.log(a.firstName); // "Jan"
 
 var b = [15, 25, 30];
 var c = b;
 c[1] = 100;
 
-console.log(b);
-console.log(c);
+console.log(b); // [15, 100, 30]
+console.log(c); // [15, 100, 30]
 
 a = b;
 
-console.log(x);
-console.log(y);
-console.log(z);
-console.log(a);
-console.log(b);
-console.log(c);
+console.log(x); // 10
+console.log(y); //12
+console.log(z); // {firstName: "Tim"}
+console.log(a); // [15, 100, 30]
+console.log(b); // [15, 100, 30]
+console.log(c); // [15, 100, 30]
 ```
 
 ## Standups
