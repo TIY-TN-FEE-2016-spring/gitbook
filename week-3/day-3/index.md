@@ -1,5 +1,4 @@
-# Wednesday November 4
-
+# Wednesday March 16
 
 ## Daily JS
 
@@ -38,7 +37,7 @@ console.assert(twoPlusTwo === 4);
 
 ## Code
 
-https://github.com/TIY-LR-FEE-2015-Fall/lesson-03-03
+https://github.com/TIY-TN-FEE-2016-spring/lesson-03-03
 
 ## Lab
 
@@ -49,4 +48,4 @@ https://github.com/TIY-LR-FEE-2015-Fall/lesson-03-03
 
 ## Homework
 
-https://github.com/TIY-LR-FEE-2015-Fall/assignments/tree/master/11-clock
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/11-clock

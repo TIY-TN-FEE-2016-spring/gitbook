@@ -1,5 +1,4 @@
-# Thursday November 5
-
+# Thursday March 17
 
 ## Daily JS
 
@@ -41,13 +40,13 @@ maxOfAll = function() {
 
 ## Topics
 
-- [Testing Callbacks](testing-callbacks.html)
-- [Babel & ES6](es6.html)
-- [Spreads](spreads.html)
+- Callbacks
+- Event Listeners
+- Arrow Functions
 
 ## Code
 
-https://github.com/TIY-LR-FEE-2015-Fall/lesson-03-04
+https://github.com/TIY-TN-FEE-2016-spring/lesson-03-04
 
 ## Lab
 
@@ -59,4 +58,4 @@ https://github.com/TIY-LR-FEE-2015-Fall/lesson-03-04
 
 ## Homework
 
-https://github.com/TIY-LR-FEE-2015-Fall/assignments/tree/master/12-array-data
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/12-array-data

@@ -1,7 +1,8 @@
-# Tuesday November 3
-
+# Tuesday March 15
 
 ## Daily JS
+
+### A word about Prototypes
 
 ### JS Quiz
 
@@ -28,22 +29,9 @@ console.assert(digitize(123)[0] === 1);
 console.assert(digitize(8675309)[6] === 9);
 ```
 
-## Class & Lab & Homework
+## Topics
 
-### Videos
-
-First watch these videos on a few of the different Array functions that are available (we briefly used `reduce` in the example problem with Credit Cards).
-
-* https://egghead.io/lessons/javascript-introducing-reduce-transforming-arrays-functionally
-* https://egghead.io/lessons/javascript-introducing-reduce-reducing-an-array-into-an-object
-* https://egghead.io/lessons/javascript-introducing-reduce-common-patterns
-
-* https://egghead.io/lessons/javascript-the-array-foreach-method
-* https://egghead.io/lessons/javascript-the-array-map-method
-* https://egghead.io/lessons/javascript-the-array-filter-method
-* https://egghead.io/lessons/javascript-chaining-the-array-map-and-filter-methods
-* https://egghead.io/lessons/javascript-create-an-array-concatall-method
-
-Today while I am out, work on your homework (most of it should be graded up to last night), then read through the resources here in the Gitbook.
-I expect for you to have questions and a list of topics that you would like to review or that I need to finish writing here in the Gitbook.
-Slack me these in a direct message.
+- [Types of Functions](function-types.html)
+- [Variable Scope](scope.html)
+- [Hoisting and Variables](hoisting.html)
+- [Types of Functions](function-types.html)

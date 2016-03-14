@@ -73,9 +73,10 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
       - `if` & `else` Blocks
       - `for` Blocks
   - Tuesday
+    * Function Creation
+      - Function Declaration vs Anonymous Functions
     * Variable Scope
     * Hoisting
-    * Function Creation
     * ES2015 Classes
   - Wednesday
     * Debugging

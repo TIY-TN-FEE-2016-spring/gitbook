@@ -1,6 +1,10 @@
 # Monday March 14
 
 
+## Remember
+
+![No Time To Explain](no-time-to-explain.png)
+
 ## Daily JS
 
 ### Logic and "Truthiness"
@@ -131,18 +135,15 @@ console.log(c);
 
 ## Topics
 
-- [Dash & Resources](dash.html)
-- [Javascript Syntax Vocab](js-vocab.html)
-- [Variable Scope](scope.html)
-- [Hoisting and Variables](hoisting.html)
+- [Javascript Syntax Vocab](../../resources/js-vocab.html)
 - [Node](node.html)
 
 ## Code
 
 - [Basic Example](example.html)
 
-https://github.com/TIY-LR-FEE-2015-Fall/lesson-03-01
+https://github.com/TIY-TN-FEE-2016-spring/lesson-03-01
 
 ## Homework
 
-https://github.com/TIY-LR-FEE-2015-Fall/assignments/tree/master/10-hoisting
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/08-functions
