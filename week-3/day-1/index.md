@@ -82,6 +82,7 @@ if (a(10)) {
 |                       |                |
 |                       |                |
 |                       |                |
+
 ### Value vs Reference
 
 ```js
@@ -136,6 +137,15 @@ console.log(c);
 ## Topics
 
 - [Javascript Syntax Vocab](../../resources/js-vocab.html)
+  * Variables
+  * Maths
+  * Strings
+  * Arrays
+  * Objects
+  * Functions
+  * `if` & `else`
+  * `while` loop
+  * `for` loop
 - [Node](node.html)
 
 ## Code
