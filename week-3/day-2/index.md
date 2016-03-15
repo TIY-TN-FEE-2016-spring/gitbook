@@ -36,15 +36,15 @@ function digitize(n) {
   return collect;
 }
 
-console.assert(digitize(123)[0] === 1);
-console.assert(digitize(8675309)[6] === 9);
+console.assert(digitize(123)[0] === 1); // Checks that the first item in an array returned by `digitize(123)` is a number 1
+console.assert(digitize(8675309)[6] === 9); // Checks that the item in position 6 of an array returned by `digitize(8675309)` is a number 9
 ```
 
 ## Topics
 
-- [Types of Functions](function-types.html)
 - [Variable Scope](scope.html)
 - [Hoisting and Variables](hoisting.html)
+- [Objects and Classes](classes.html)
 - [Types of Functions](function-types.html)
 
 ## Lab
