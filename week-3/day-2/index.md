@@ -67,6 +67,10 @@ $brand-border: 0.1rem solid $brand-grey;
 $brand-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 ```
 
+Things should look like:
+
+![Comp](comp.png)
+
 ## Code
 
 https://github.com/TIY-TN-FEE-2016-spring/lesson-03-02
