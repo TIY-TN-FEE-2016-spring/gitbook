@@ -49,24 +49,12 @@ console.assert(digitize(8675309)[6] === 9); // Checks that the item in position 
 
 ## Lab
 
-### Standups
-
-* What is going well?
-* What is not going well (what are you struggling with)?
-* What's something you'd like to share not about code?
-* What's something you've learned
-
-#### Common Wins
-
-*
-
-#### Common Struggles
-
-*
+## Assignment 05 Updates
 
 The designer for exercise 5 realized that they gave you the wrong brand standards.
 
 Replace the values for the new brand standards:
+
 
 ```
 $gutter: 1rem;
@@ -81,10 +69,8 @@ $brand-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12)
 
 ## Code
 
-- [Basic Example](example.html)
-
-https://github.com/TIY-TN-FEE-2016-spring/lesson-03-01
+https://github.com/TIY-TN-FEE-2016-spring/lesson-03-02
 
 ## Homework
 
-https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/08-functions-tdd
+https://online.theironyard.com/library/paths/91/units/740/assignments/1299
