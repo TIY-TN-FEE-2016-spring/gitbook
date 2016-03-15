@@ -26,27 +26,19 @@ Slack me a direct message of your attempt.
 
 ```js
 function digitize(n) {
-  // Your code goes here
+  const chars = n.toString();
+  const collect = [];
+
+  for (var i = 0; i < chars.length; i++) {
+    collect.push(parseInt(chars[i]));
+  }
+
+  return collect;
 }
 
 console.assert(digitize(123)[0] === 1);
 console.assert(digitize(8675309)[6] === 9);
 ```
-
-## Standups
-
-* What is going well?
-* What is not going well (what are you struggling with)?
-* What's something you'd like to share not about code?
-* What's something you've learned
-
-### Common Wins
-
-*
-
-### Common Struggles
-
-*
 
 ## Topics
 
@@ -56,6 +48,21 @@ console.assert(digitize(8675309)[6] === 9);
 - [Types of Functions](function-types.html)
 
 ## Lab
+
+### Standups
+
+* What is going well?
+* What is not going well (what are you struggling with)?
+* What's something you'd like to share not about code?
+* What's something you've learned
+
+#### Common Wins
+
+*
+
+#### Common Struggles
+
+*
 
 The designer for exercise 5 realized that they gave you the wrong brand standards.
 
