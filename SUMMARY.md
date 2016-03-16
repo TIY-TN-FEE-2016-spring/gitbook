@@ -55,9 +55,8 @@
     + [Day 3](week-3/day-3/index.md)
       * [Challenges](week-3/day-3/query-selector.md)
       * [JS Elements](week-3/day-3/js-elements.md)
-      * [Event Listeners](week-3/day-3/eventlistener.md)
-    + [Day 3](week-3/day-4/index.md)
     + [Day 4](week-3/day-4/index.md)
+    * [Event Listeners](week-3/day-4/eventlistener.md)
 * Resources
   - [Keyboard Shortcuts](resources/keyboard-shortcuts.md)
   - [Shell Prompt](resources/shell.md)

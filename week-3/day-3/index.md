@@ -26,14 +26,13 @@ console.assert(twoPlusTwo === 4);
 
 ## Topics
 
+- Debugging
+  * Sources Pane
+  * `debugger`
 - [document.querySelector](query-selector.html)
 - [Working with Elements](js-elements.html)
   * innerHTML
   * style
-- [Event Listeners](eventlistener.html)
-- [Timing Things](timing.html)
-  * setTimeout
-  * setInterval
 
 ## Code
 
