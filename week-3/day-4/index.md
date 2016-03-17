@@ -6,28 +6,27 @@
 
 #### Instructions
 
-Define a function max() that takes two numbers as arguments and returns the largest of them.
+Define a function `maxTwo` that takes two numbers as arguments and returns the largest of them.
 Use the if/else statement available in Javascript.
 
 In an editor window, the chrome console, or your note books
 
 ```js
-function maxTwo(currentMax, compare) {
+function maxTwo(first, second) {
+  if (second > first) {
+    return second;
+  }
 
+  return first;
 }
 
-var upperLimit = maxTwo(2, 200);
-var upperLimitTwo = maxTwo('2000', 15);
-var maxFromArray = [200, 1000, 15, 9999, 24].reduce(maxTwo);
+test(`it can find max`, (assert) => {
+  assert.equal(maxTwo(15, 5), 15);
+  assert.equal(maxTwo(20, 5), 20);
+  assert.equal(maxTwo(2, 2), 2);
+  assert.equal(maxTwo(3, 10), 10);
+});
 
-console.assert(upperLimit === 200);
-console.assert(upperLimitTwo === '2000');
-console.assert(maxFromArray === 9999);
-
-maxOfAll = function() {
-  return Array.from(arguments)
-    .reduce(maxTwo);
-}
 ```
 
 ## Standups
