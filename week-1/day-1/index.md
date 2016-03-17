@@ -49,7 +49,7 @@ console.log(a);
 
 ## Lab
 
-- [CSS Syntax](css-syntax.html)
+- [CSS Syntax](https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax)
 - [Basic CSS Selectors](selectors.html)
 - [Basic CSS Properties](properties.html)
 - Homework
