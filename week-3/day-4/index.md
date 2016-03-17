@@ -9,15 +9,11 @@
 Define a function max() that takes two numbers as arguments and returns the largest of them.
 Use the if/else statement available in Javascript.
 
-Use your whiteboards to write this out:
+In an editor window, the chrome console, or your note books
 
 ```js
 function maxTwo(currentMax, compare) {
-  if (currentMax > compare) {
-    return currentMax;
-  }
 
-  return compare;
 }
 
 var upperLimit = maxTwo(2, 200);
@@ -34,6 +30,19 @@ maxOfAll = function() {
 }
 ```
 
+## Standups
+
+* What is going well?
+* What is not going well (what are you struggling with)?
+* What's something you'd like to share not about code?
+* What's something you've learned
+
+### Common Wins
+
+
+### Common Struggles
+
+
 ## Vocab
 
 - `arguments` - a special variable in JS which is an array-like structure holding all of the arguments for the current function
@@ -41,6 +50,7 @@ maxOfAll = function() {
 ## Topics
 
 - Callbacks
+- Promises
 - Event Listeners
 - Arrow Functions
 
