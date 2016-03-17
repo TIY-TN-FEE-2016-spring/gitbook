@@ -40,14 +40,14 @@ console.log(c === d);
 * House Keeping
   - Importance of Assignments
     * Portfolio
-* **[`vh` and `vw` Units](vh-vw.html)**
+* **[`vh` and `vw` Units](https://css-tricks.com/the-lengths-of-css/#article-header-id-12)**
 * [Flex Box](flex-box.html)
   - Flex Parent vs Flex Children `display: flex`
   - `flex-direction` (Parent)
     * Primary Axis
   - `flex-basis`, `flex-grow`, `flex-shrink` (Child)
   - `flex-wrap` (Parent)
-* **[Moving Flexbox Content](flex-box-moving.html)**
+* **[Moving Flexbox Content](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
   - `justify-content` vs `align-items` (Parent)
   - `align-content` (Parent)
   - `align-self` (Child)
