@@ -38,9 +38,15 @@ test(`it can find max`, (assert) => {
 
 ### Common Wins
 
+* Javascript is sorta coming together
+* Things make sense over time
 
 ### Common Struggles
 
+* Javascript is still new...ish...
+* Working with the DOM is still weird
+* Putting it together and visualizing things
+* Javascript is not like learning Spanish
 
 ## Vocab
 
@@ -59,12 +65,14 @@ https://github.com/TIY-TN-FEE-2016-spring/lesson-03-04
 
 ## Lab
 
-- Find Max Items
-  - Multiple Inputs Find Max Items on Inputs
-  - Count up each time the max changes
-  - Every 500ms blink a border around the max input
-- [Array Functions](array-fns.html)
+* Review 08 Homework
+* Homework Grade 1-1s
+  - Check Pull Request URLs
+  - What is ready to re-grade
+  - What do you need help on with concepts
 
 ## Homework
 
-https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/12-array-data
+Work on previous assignments!!!
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/08-uyfp2iPM" frameborder="0" allowfullscreen></iframe>
