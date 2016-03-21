@@ -44,15 +44,18 @@ accelerate(); // speed is NaN
 
 ### Common Wins
 
-*
+* Still growing
 
 ### Common Struggles
 
-*
+* Catching up (need to ask questions about it)
+* Javascript
+* Vocabulary
 
 ## Topics
 
 - Review
+  *
 - `forEach`
 - `map`, `reduce`
 - Organization of JS with Classes

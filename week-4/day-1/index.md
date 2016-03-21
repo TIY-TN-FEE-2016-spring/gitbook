@@ -18,29 +18,13 @@ Try to explain why this is and rewrite the `accelerate` function to fix this err
 ```js
 var speed = 0;
 
-/* Original */
-// function accelerate(amount) {
-//   if (amount === undefined) {
-//     amount = 0;
-//   }
-//
-//   speed += amount;
-// }
-
 function accelerate(amount) {
-  if (amount === undefined) {
-    amount = 0;
-  }
-
   speed += amount;
 }
 
 accelerate(5); // speed is 5
 accelerate(); // speed is NaN
 ```
-
-When no argument is sent to the `accelerate` function then `amount` will be `undefined`.
-`undefined` plus a number gives a result of `NaN`.
 
 ## Standups
 
@@ -51,18 +35,21 @@ When no argument is sent to the `accelerate` function then `amount` will be `und
 
 ### Common Wins
 
-*
+* Still growing learning
 
 ### Common Struggles
 
-*
+* Catching up (need to ask questions about it)
+* Javascript
+* Vocabulary
 
 ## Topics
 
 - Review
+  *
 - `forEach`
 - `map`, `reduce`
-- Organization with Classes
+- Organization of JS with Classes
 
 ## Code
 
