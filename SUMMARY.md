@@ -57,6 +57,8 @@
       * [JS Elements](week-3/day-3/js-elements.md)
     + [Day 4](week-3/day-4/index.md)
     * [Event Listeners](week-3/day-4/eventlistener.md)
+  - Week 4
+    + [Day 1](week-4/day-1/index.md)
 * Resources
   - [Keyboard Shortcuts](resources/keyboard-shortcuts.md)
   - [Shell Prompt](resources/shell.md)

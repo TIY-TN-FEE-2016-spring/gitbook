@@ -55,7 +55,7 @@ accelerate(); // speed is NaN
 - Review
 - `forEach`
 - `map`, `reduce`
-- Organization with Classes
+- Organization of JS with Classes
 
 ## Code
 
