@@ -60,6 +60,8 @@
   - Week 4
     + [Day 1](week-4/day-1/index.md)
 * Resources
+  - Javascript
+    + [Javascript Cheatsheet](resources/javascript/cheatsheet.md)
   - [Keyboard Shortcuts](resources/keyboard-shortcuts.md)
   - [Shell Prompt](resources/shell.md)
   - [Playlists](resources/playlists.md)

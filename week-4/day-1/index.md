@@ -45,8 +45,7 @@ accelerate(); // speed is NaN
 
 ## Topics
 
-- Review
-  *
+- [Review and Cheatsheet](../../resources/javascript/cheatsheet.html)
 - `forEach`
 - `map`, `reduce`
 - Organization of JS with Classes
