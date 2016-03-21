@@ -91,16 +91,14 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
 * Week 4
   - Monday
     * Functional Programming
-      - Reduce
-      - Add
-      - Multiply
-      - Composition
+      - `reduce`
+      - `map`
+      - `forEach`
   - Tuesday
-    * Unit Testing
-  - Wednesday
     * Babel
     * Transpilation
-    * Prototypes
+  - Wednesday
+    * Unit Testing
   - Thursday
     * `window.fetch`
     * Acceptance Tests
