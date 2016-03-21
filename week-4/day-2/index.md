@@ -28,19 +28,12 @@ var speed = 0;
 // }
 
 function accelerate(amount) {
-  if (amount === undefined) {
-    amount = 0;
-  }
-
   speed += amount;
 }
 
 accelerate(5); // speed is 5
 accelerate(); // speed is NaN
 ```
-
-When no argument is sent to the `accelerate` function then `amount` will be `undefined`.
-`undefined` plus a number gives a result of `NaN`.
 
 ## Standups
 
