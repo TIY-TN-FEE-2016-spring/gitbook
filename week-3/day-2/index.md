@@ -44,8 +44,8 @@ console.assert(digitize(8675309)[6] === 9); // Checks that the item in position 
 
 - [Variable Scope](scope.html)
 - [Hoisting and Variables](hoisting.html)
-- [Objects and Classes](classes.html)
-- [Types of Functions](function-types.html)
+- [Objects and Classes](http://www.2ality.com/2015/02/es6-classes-final.html)
+- [Types of Functions](http://bonsaiden.github.io/JavaScript-Garden/#function.general)
 
 ## Lab
 
