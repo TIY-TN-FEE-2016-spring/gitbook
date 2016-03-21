@@ -18,7 +18,7 @@ Try to explain why this is and rewrite the `accelerate` function to fix this err
 ```js
 var speed = 0;
 
-function accelerate(amount) {
+function accelerate(amount = 0) {
   speed += amount;
 }
 
