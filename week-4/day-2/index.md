@@ -31,6 +31,7 @@ Write code to make this element say "Hi there Javascript" and have red text.
 
 ## Topics
 
+- House Keeping
 - Modules
 - Classes to hold logic
   * Dropdown
@@ -43,4 +44,6 @@ https://github.com/TIY-TN-FEE-2016-spring/lesson-04-01
 
 ## Homework
 
-Continue working on Etsy. Note, there are some new tasks in there for making the app search based on the search box and when a user clicks "Search".
+Tonight work on the login form assignment
+
+https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/12-login-form
