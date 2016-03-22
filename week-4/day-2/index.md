@@ -1,39 +1,18 @@
-# Monday March 21
-
-
-## Interruptions & Events
-
-* 12-1:30 Lunch
-
-## Motivation Monday!!!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZXsQAXx_ao0" frameborder="0" allowfullscreen></iframe>
+# Tuesday March 21
 
 ## Daily JS
 
-The following code is from an app where the speed of a car is accelerated using the `accelerate` function.
-But, right now the code is broken, if we call `accelerate()` without passing in any arguments, `speed` will be set to `NaN`.
-Try to explain why this is and rewrite the `accelerate` function to fix this error.
+### DOM Manipulation
+
+In the current dom, there is an `h2` element with a class of `change-me`.
+Write code to make this element say "Hi there Javascript" and have red text.
+
+<h2 class="change-me">Hello HTML</h2>
 
 ```js
-var speed = 0;
 
-/* Original */
-// function accelerate(amount) {
-//   if (amount === undefined) {
-//     amount = 0;
-//   }
-//
-//   speed += amount;
-// }
-
-function accelerate(amount) {
-  speed += amount;
-}
-
-accelerate(5); // speed is 5
-accelerate(); // speed is NaN
 ```
+
 
 ## Standups
 
@@ -44,21 +23,18 @@ accelerate(); // speed is NaN
 
 ### Common Wins
 
-* Still growing
+*
 
 ### Common Struggles
 
-* Catching up (need to ask questions about it)
-* Javascript
-* Vocabulary
+*
 
 ## Topics
 
-- Review
-  *
-- `forEach`
-- `map`, `reduce`
-- Organization of JS with Classes
+- Modules
+- Classes to hold logic
+  * Dropdown
+  * Todo List
 
 ## Code
 

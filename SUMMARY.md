@@ -59,6 +59,7 @@
     * [Event Listeners](week-3/day-4/eventlistener.md)
   - Week 4
     + [Day 1](week-4/day-1/index.md)
+    + [Day 2](week-4/day-2/index.md)
 * Resources
   - Javascript
     + [Javascript Cheatsheet](resources/javascript/cheatsheet.md)
