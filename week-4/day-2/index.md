@@ -10,7 +10,10 @@ Write code to make this element say "Hi there Javascript" and have red text.
 <h2 class="change-me">Hello HTML</h2>
 
 ```js
+const hi = document.querySelector(`.change-me`);
 
+hi.innerText = `<em>Hi there Javascript</em>`;
+hi.style.color = `red`;
 ```
 
 

@@ -5,7 +5,7 @@
 * `var` - Declares a variable scoped to the current function
 * `const` - Declares a variable that can never change and is scoped to the nearest block (`if`, `for`, `else`) or function
 * `let` - Declares a variable that can be change and is scoped to the nearest block (`if`, `for`, `else`) or function
-* `left = right` - Fully evaluates the value of the right side then assigns that value into the left variable
+* `left = right` - Fully evaluates the value of the right side THEN assigns that value into the left variable
 
 ## Logic Operators
 
@@ -91,3 +91,5 @@ console.log(y); // "2"
 * `.innerHTML` - Reads the HTML string content of an element
 * `.innerHTML = something` - Sets the HTML content of an element AND parses all content as HTML - [Example](http://codepen.io/anon/pen/VapBjV)
 * `.textContent` - READ ONLY: Escaped version of `innerText`
+* `.style` - Object containing the inline style properties for an element
+* `.addEventListener(eventName, callback)` - Registers a callback function to be run when the event named by `eventName` is fired
