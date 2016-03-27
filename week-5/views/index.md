@@ -27,6 +27,6 @@ This will help to manage smaller pieces instead of trying to tackle everything a
 
 Now, it is time to see how these views get into action.
 
-* [Parent/Child Detail View](detail.html)
-* [List and Item View](list-item.html)
-* [Edit View](edit-view.html)
+* [Detail Views](detail.html)
+* [List and List Item Views](list.html)
+* [User Interaction](user-interaction.html)
