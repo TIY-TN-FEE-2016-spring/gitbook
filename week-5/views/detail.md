@@ -89,7 +89,7 @@ const contactView = new UserView(contactEl, user);
 ```
 
 See the interactive demo below.
-When the button is clicked, the code above will be run and you will notice that the elements will have thier HTML updated.
+When the button is clicked, the code above will be run and you will notice that the elements will have their HTML updated.
 
 
 <blockquote>
