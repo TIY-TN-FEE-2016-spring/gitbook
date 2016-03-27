@@ -62,6 +62,8 @@
     + [Day 2](week-4/day-2/index.md)
     + [Day 3](week-4/day-3/index.md)
     + [Day 4](week-4/day-4/index.md)
+  - Week 5
+    + [Views](week-5/views/index.md)
 * Resources
   - Javascript
     + [Javascript Cheatsheet](resources/javascript/cheatsheet.md)
