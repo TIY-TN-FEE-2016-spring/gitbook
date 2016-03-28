@@ -64,6 +64,7 @@
     + [Day 4](week-4/day-4/index.md)
   - Week 5
     + [Day 1](week-5/day-1/index.md)
+      - [Fetch](week-5/day-1/fetch.md)
     + [Views](week-5/views/index.md)
       - [Detail Views](week-5/views/detail.md)
       - [List Views](week-5/views/list.md)
