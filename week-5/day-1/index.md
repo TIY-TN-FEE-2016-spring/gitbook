@@ -11,4 +11,4 @@
 ## Topics
 
 - JSON APIs
-- `POST`ing with `fetch`
+- [`POST`ing with `fetch`](fetch.html)
