@@ -29,7 +29,8 @@ Now, it is time to see how these views get into action.
 
 * [Detail Views](detail.html)
 * [List and List Item Views](list.html)
-* [User Interaction](user-interaction.html)
+* [Application Management - Delete](app-delete.html)
+* [Application Management - Add](app-add-item.html)
 
 ## Example App
 
