@@ -69,6 +69,7 @@
       - [Detail Views](week-5/views/detail.md)
       - [List Views](week-5/views/list.md)
       - [App View - Delete](week-5/views/app-delete.md)
+      - [App View - Add](week-5/views/app-add-item.md)
 * Resources
   - Javascript
     + [Javascript Cheatsheet](resources/javascript/cheatsheet.md)
