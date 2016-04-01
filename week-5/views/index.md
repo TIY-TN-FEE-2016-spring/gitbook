@@ -30,3 +30,16 @@ Now, it is time to see how these views get into action.
 * [Detail Views](detail.html)
 * [List and List Item Views](list.html)
 * [User Interaction](user-interaction.html)
+
+## Example App
+
+* [Contacts List](https://github.com/TIY-TN-FEE-2016-spring/lesson-05-contacts)
+
+To clone this app locally:
+
+```shell
+hub clone TIY-TN-FEE-2016-spring/lesson-05-contacts
+cd lesson-05-contacts
+npm install
+npm run serve
+```
