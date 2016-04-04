@@ -78,8 +78,10 @@
 * Resources
   - Javascript
     + [Javascript Cheatsheet](resources/javascript/cheatsheet.md)
-  - [Keyboard Shortcuts](resources/keyboard-shortcuts.md)
-  - [Shell Prompt](resources/shell.md)
-  - [Playlists](resources/playlists.md)
-  - [JS Vocab](resources/js-vocab.md)
+    + [HTTP & REST](resources/javascript/http.md)
+    + [JS Vocab](resources/js-vocab.md)
+  - General
+    + [Shell Prompt](resources/shell.md)
+    + [Playlists](resources/playlists.md)
+    + [Keyboard Shortcuts](resources/keyboard-shortcuts.md)
   - [Homework Checklist](resources/homework-process.md)

@@ -3,6 +3,7 @@
 ## Interruptions & Events
 
 * 3:30-4 Call
+* 1 on 1s Backlog Trimming
 
 ## Motivation Monday!!!
 
@@ -34,21 +35,26 @@ function reduce(arr, item) {
 
 ### Common Wins
 
-*
+* WEEK 6!!!
+* Starting to Understand `fetch` to pull data
+* Realizing how much we've learned
+* Understanding Javascript syntax
+* Take Breaks
+
+![My Code](http://m.memegen.com/ou7qcz.jpg)
 
 ### Common Struggles
 
-*
+* Things are piling up, missing one topic feels like you've missed out and can't catch up
+* Where do we structure things in Javascript
+* There's a lot of things to Javascript
+* One missed piece of syntax will break the application
+* Backlog
 
 ## Topics
 
 - Update Review Sheet
-- Installing Ember CLI
-- Getting around Ember CLI projects
-  * Application Template
-  * Application Route
-  * Handlebars
-- Atom Tricks
+- Build an App with ES6 Views
 
 ## Code
 
@@ -56,4 +62,4 @@ function reduce(arr, item) {
 
 Tonight work on following the Ember Fastboot Quick Start: http://www.ember-fastboot.com/quickstart
 
-Come prepared to ask questions tomorrow.
+Come prepared to ask questions tomorrow (it will be part of standups)
