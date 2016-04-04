@@ -2,7 +2,7 @@
 
 ## Interruptions & Events
 
-* Flip Lab?
+* 3:30-4 Call
 
 ## Motivation Monday!!!
 
