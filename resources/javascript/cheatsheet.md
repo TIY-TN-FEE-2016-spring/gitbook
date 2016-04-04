@@ -93,3 +93,51 @@ console.log(y); // "2"
 * `.textContent` - READ ONLY: Escaped version of `innerText`
 * `.style` - Object containing the inline style properties for an element
 * `.addEventListener(eventName, callback)` - Registers a callback function to be run when the event named by `eventName` is fired
+
+## Timing Things
+
+* `window.setTimeout(cb, t)` - Runs callback function once `cb` after AT LEAST `t` milliseconds
+* `window.setInterval(cb, t)` - Runs callback function `cb` after AT LEAST `t` milliseconds and then continues running AT LEAST every `t` milliseconds after the last run
+
+## Promises
+
+Promises give structure around waiting for asynchronous tasks or events.
+
+* `new Promise(cb)` - Creates a new promise object and runs the callback `cb` immediately
+* Promise Callback Format
+  - Receives two arguments
+    * Resolve - A function to run when finished successfully with asynchronous tasks and can accept data
+    * Reject - A function to run when finished failing with asynchronous tasks and can accept data
+* Using Promise Objects (Assume `p` is a instance of a Promise)
+  * `p.then(cb, cb2)` - Runs the callback `cb` once the callback has resolved successfully, or `cb2` if the promise is rejected
+  * `p.catch(f)` - Runs the callback `f` when ANY promise has failed
+
+Promise Example:
+
+```js
+function askForUserInput(resolve, reject) {
+  if (window.confirm(`Should this resolve`)) {
+    resolve(`HEY`);
+  } else {
+    reject();
+  }
+
+  console.log(`This is in the promise`);
+}
+
+var p = new Promise(askForUserInput);
+
+function onSuccess(message) {
+  console.log(`YAY`, message);
+}
+
+function onFailure() {
+  window.alert(`BOOO`);
+}
+
+function catchAll() {
+  window.alert(`CATCH`);
+}
+
+p.then(onSuccess, onFailure).catch(catchAll);
+```

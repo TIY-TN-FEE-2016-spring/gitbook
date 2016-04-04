@@ -79,7 +79,7 @@
   - Javascript
     + [Javascript Cheatsheet](resources/javascript/cheatsheet.md)
     + [HTTP & REST](resources/javascript/http.md)
-    + [JS Vocab](resources/js-vocab.md)
+    + [JS Vocab](resources/javascript/vocab.md)
   - General
     + [Shell Prompt](resources/shell.md)
     + [Playlists](resources/playlists.md)
