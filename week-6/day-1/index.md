@@ -58,6 +58,14 @@ function reduce(arr, item) {
 
 ## Code
 
+* https://github.com/TIY-TN-FEE-2016-spring/lesson-06-01
+
+## Videos
+
+> These are long!!! Use them wisely! Maybe check in the code, see what you want explaination about and scrub the video to find when we wrote that!
+
+* https://vimeo.com/161509429
+
 ## Homework
 
 Tonight work on following the Ember Fastboot Quick Start: http://www.ember-fastboot.com/quickstart
