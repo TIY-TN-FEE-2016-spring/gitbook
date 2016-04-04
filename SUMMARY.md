@@ -70,6 +70,11 @@
       - [List Views](week-5/views/list.md)
       - [App View - Delete](week-5/views/app-delete.md)
       - [App View - Add](week-5/views/app-add-item.md)
+  - Week 6
+    + [Day 1](week-6/day-1/index.md)
+    + [Day 2](week-6/day-2/index.md)
+    + [Day 3](week-6/day-3/index.md)
+    + [Day 4](week-6/day-4/index.md)
 * Resources
   - Javascript
     + [Javascript Cheatsheet](resources/javascript/cheatsheet.md)

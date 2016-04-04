@@ -111,20 +111,20 @@ Over twelve weeks we will cover HTML, CSS, Javascript, and more to get you ready
   - Tuesday
     * Site Visit
   - Wednesday
-    * Handlebars
+    * Application Views
   - Thursday
     * Lab
-  - Friday
-    * Introduction to Ember Templates
 * Week 6
   - Monday
     * Application Template
     * Application Route
+    * Handlebars
+  - Tuesday
     * Unit Testing
       - Filtering
       - Reducing
     * Handlebars Helpers
-  - Tuesday
+  - Wednesday
     * Acceptance Testing
     * Routing
     * Actions
