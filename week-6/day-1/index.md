@@ -65,6 +65,7 @@ function reduce(arr, item) {
 > These are long!!! Use them wisely! Maybe check in the code, see what you want explaination about and scrub the video to find when we wrote that!
 
 * https://vimeo.com/161509429
+* https://vimeo.com/161543265
 
 ## Homework
 
