@@ -13,11 +13,18 @@
 
 ### Common Wins
 
-*
+* Reviewing Views helped
+* Catching up on some assignments
+* Repetition builds confidence
+
+![Wax On](http://images6.fanpop.com/image/photos/32300000/Wax-On-Wax-Off-snoopy_sophie-32378028-500-275.gif)
 
 ### Common Struggles
 
-*
+* Still fuzzy on constructor arguments
+* Event Listeners
+* How to keep up with stuff we've learned in the past?
+* Refreshing data locally
 
 ## Topics
 
