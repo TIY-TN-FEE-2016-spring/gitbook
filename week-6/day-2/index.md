@@ -21,18 +21,15 @@
 
 ## Topics
 
-- Update Review Sheet
-- Installing Ember CLI
-- Getting around Ember CLI projects
-  * Application Template
-  * Application Route
-  * Handlebars
-- Atom Tricks
+- Intro to Ember CLI
+- Application Route & Template (Simpsons family list)
+- Handlebars Helpers (Calculate ºF)
+- Components (Toggle ºC ºF)
+  + Actions
+    - Basic Forms
+
+Let's create a weather app that searches openweathermap.com for data and then
 
 ## Code
 
 ## Homework
-
-Tonight work on following the Ember Fastboot Quick Start: http://www.ember-fastboot.com/quickstart
-
-Come prepared to ask questions tomorrow.
