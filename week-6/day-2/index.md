@@ -39,4 +39,12 @@ Let's create a weather app that searches openweathermap.com for data and then
 
 ## Code
 
+* https://github.com/TIY-TN-FEE-2016-spring/lesson-06-02
+
+## Video
+
+* https://vimeo.com/161664004
+
 ## Homework
+
+* https://github.com/TIY-TN-FEE-2016-spring/assignments/tree/master/15-like-button
