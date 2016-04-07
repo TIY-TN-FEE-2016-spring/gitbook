@@ -28,10 +28,10 @@
 
 ## Topics
 
-- Ember Routes
+- [Ember Routes](../../resources/routes.html)
   * URLS
   * Dynamic Segments
-- `link-to`
+- [`link-to`](https://guides.emberjs.com/v2.4.0/templates/links/)
 - Ember CLI SASS
 - [Ember Addons](https://www.emberaddons.com/)
   * [`ember-font-awesome`](https://www.npmjs.com/ember-font-awesome)
