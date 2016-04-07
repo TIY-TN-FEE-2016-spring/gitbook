@@ -31,11 +31,22 @@
 - Ember Routes
   * URLS
   * Dynamic Segments
-- Services
-- [Store Reducers](reducers.html)
+- `link-to`
+- Ember CLI SASS
+- [Ember Addons](https://www.emberaddons.com/)
+  * [`ember-font-awesome`](https://www.npmjs.com/ember-font-awesome)
 
 ## Code
 
-## Video
+* https://github.com/TIY-TN-FEE-2016-spring/lesson-06-04
+
+To clone this locally run:
+
+```
+hub clone TIY-TN-FEE-2016-spring/lesson-06-04 lesson-04
+cd lesson-04 && npm install & bower install
+atom .
+ember serve
+```
 
 ## Homework
