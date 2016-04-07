@@ -76,6 +76,8 @@
     + [Day 3](week-6/day-3/index.md)
     + [Day 4](week-6/day-4/index.md)
 * Resources
+  - Ember
+    + [Vocab](http://kylecoberly.github.io/ember-vocab)
   - Javascript
     + [Javascript Cheatsheet](resources/javascript/cheatsheet.md)
     + [HTTP & REST](resources/javascript/http.md)
