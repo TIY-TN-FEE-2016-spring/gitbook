@@ -25,25 +25,16 @@ function replace(arr, item) {
 }
 ```
 
-## Standups
-
-* What is going well?
-* What is not going well (what are you struggling with)?
-* What's something you'd like to share not about code?
-* What's something you've learned
-
-### Common Wins
-
-*
-
-### Common Struggles
-
-*
+* http://codepen.io/anon/pen/ZWrJgO?editors=0010
 
 ## Topics
 
+- Review Jumping in to Ember projects
+  * Route Definitions
+  * Outlets
 - Services
 - Store Reducer
+- Loading States
 
 ## Code
 

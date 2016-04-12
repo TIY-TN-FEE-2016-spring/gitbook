@@ -77,6 +77,7 @@
     + [Day 4](week-6/day-4/index.md)
   - Week 7
     + [Day 1](week-7/day-1/index.md)
+    + [Day 2](week-7/day-2/index.md)
 * Resources
   - Ember
     + [Vocab](http://kylecoberly.github.io/ember-vocab)
