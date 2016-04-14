@@ -13,11 +13,16 @@
 
 ### Common Wins
 
-*
+* We all can contribute something!
+* Work as a team
 
 ### Common Struggles
 
-*
+* Easy to focus on self even on a team...
+* How to get things to talk to each other
+* Thinking out loud is tough
+* Planning out Projects
+* Tired/Burned Out
 
 ## Topics
 
@@ -29,6 +34,8 @@
 
 * https://github.com/TIY-TN-FEE-2016-spring/lesson-07-03
 
-## Videos
+## Lab
+
+* 2PM Review Image Board
 
 ## Homework

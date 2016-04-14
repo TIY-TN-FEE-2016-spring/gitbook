@@ -1,8 +1,8 @@
-# Tuesday April 12
+# Thursday April 14
 
 ## Interruptions & Events
 
-* 12PM-1PM Meeting
+* Docs Meeting 2PM
 
 ## Standups
 
@@ -13,21 +13,24 @@
 
 ### Common Wins
 
-* Group exercises went well
+*
 
 ### Common Struggles
 
-* How to plan on paper
+*
 
 ## Topics
 
-- JSON API
-- Ember Data
+- Project Planning
+- Database Modeling
+- Servers with Candycane
 
 ## Code
 
-* https://github.com/TIY-TN-FEE-2016-spring/lesson-07-02
+* https://github.com/TIY-TN-FEE-2016-spring/lesson-07-04
 
-## Videos
+## Lab
+
+* 2:30PM Review Image Board
 
 ## Homework
