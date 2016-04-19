@@ -13,11 +13,14 @@
 
 ### Common Wins
 
-*
+* Every day is more in focus
+* NashJS was interesting
 
 ### Common Struggles
 
-*
+* There's still a lot AFTER TIY
+* Reduce is complicated
+* Starting projects
 
 ## Topics
 
