@@ -80,6 +80,11 @@
     + [Day 2](week-7/day-2/index.md)
     + [Day 3](week-7/day-3/index.md)
     + [Day 4](week-7/day-4/index.md)
+  - Week 8
+    + [Day 1](week-8/day-1/index.md)
+    + [Day 2](week-8/day-2/index.md)
+    + [Day 3](week-8/day-3/index.md)
+    + [Day 4](week-8/day-4/index.md)
 * Resources
   - Ember
     + [Vocab](http://kylecoberly.github.io/ember-vocab)
