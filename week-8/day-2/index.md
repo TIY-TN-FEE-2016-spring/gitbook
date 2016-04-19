@@ -4,8 +4,27 @@
 
 * 12 - Meeting
 
+## Standups
+
+* What is going well?
+* What is not going well (what are you struggling with)?
+* What's something you'd like to share not about code?
+* What's something you've learned
+
+### Common Wins
+
+* Catching up HW
+
+### Common Struggles
+
+* Debugging Ember Applications
+* Still catching up on Ember
+* Ryan broke the server...
+* Getting stuck
+
 ## Topics
 
+- Ember Dev Tools
 - Data Down Actions Up
 - Build an App
 
@@ -18,7 +37,7 @@
   * A `reviewer` can see a dropdown of `coffee-shop`s and choose which one they want to review
   * A `reviewer` can see five radio buttons to say how many stars they want to rate the shop
   * A `reviewer` can see a textfield to type in the comments they have of the shop
-- A `reviewer` can see their `review`
+- A `reviewer` can see their `review`s
 
 ## API Details
 
