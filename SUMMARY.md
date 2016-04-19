@@ -85,6 +85,7 @@
     + [Day 2](week-8/day-2/index.md)
     + [Day 3](week-8/day-3/index.md)
     + [Day 4](week-8/day-4/index.md)
+    + [Chatty](week-8/chatty.md)
 * Resources
   - Ember
     + [Vocab](http://kylecoberly.github.io/ember-vocab)
