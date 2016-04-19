@@ -70,7 +70,7 @@ Namespace: `api`
     * `date` - `date` - Automatically assigned by server
   - Relationships
     * `coffee-shop` - `belongsTo` - `coffee-shop`
-    * `reviewer` - `belongsTo` - `reviewer`
+    * `reviewer` - `belongsTo` - `reviewer` - Automatically assigned by the server
   - Restrictions
     * All users can read `review`s
     * Only logged in `reviewer`s can `POST` new reviews
@@ -83,5 +83,12 @@ Namespace: `api`
 ## Lab
 
 Review Chat Server
+
+## Videos
+
+* https://vimeo.com/163414987/b8c6e3b395
+* https://vimeo.com/163416430/af68845e47
+* https://vimeo.com/163435030/3abeb0744b
+* https://vimeo.com/163435057/bc2288bc4c
 
 ## Homework
