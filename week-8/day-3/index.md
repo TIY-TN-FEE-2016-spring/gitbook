@@ -15,11 +15,13 @@
 
 ### Common Wins
 
-*
+* [This isn't the end of the world](https://www.youtube.com/watch?v=QoLywiaM6PA)
 
 ### Common Struggles
 
-*
+* How files are communicating
+* Getting started on projects
+* **The backest of logs**
 
 ## Topics
 
