@@ -25,6 +25,7 @@
 
 ## Topics
 
+- [Route Path Review](https://ember-twiddle.com/4d10a542b2817710d67c303948850b10?openFiles=router.js%2C&route=%2F1)
 - Ember Components
 - Ember Simple Auth Sessions
 - Ember Concurrency
@@ -56,7 +57,6 @@ Namespace: `api`
 * https://github.com/TIY-TN-FEE-2016-spring/lesson-08-03
 
 ## Lab
-
 
 ## Videos
 
