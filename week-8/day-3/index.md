@@ -2,9 +2,9 @@
 
 ## Interruptions & Events
 
-* 1PM - Meeting
-* 2PM - Meeting
-* 3:30PM - Meeting
+* 1PM-1:30PM - Meeting
+* 2PM-2:30PM - Meeting
+* 3:30PM-4PM - Meeting
 
 ## Standups
 
@@ -24,6 +24,7 @@
 ## Topics
 
 - Ember Components
+- Ember Simple Auth Sessions
 - Ember Concurrency
 
 ## Requirements
@@ -46,7 +47,7 @@ Namespace: `api`
     * `email` - `string`
     * `password` - `string`
   - Restrictions
-    * Reviewers can only be updated by themselves
+    * Players can only be updated by themselves
 
 ## Code
 
