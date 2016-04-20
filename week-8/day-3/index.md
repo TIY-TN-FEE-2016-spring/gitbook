@@ -26,6 +26,7 @@
 ## Topics
 
 - [Route Path Review](https://ember-twiddle.com/4d10a542b2817710d67c303948850b10?openFiles=router.js%2C&route=%2F1)
+- [Review Login with Ember Simple Auth](https://github.com/rtablada/ember-simple-auth-loopback)
 - Ember Components
 - Ember Simple Auth Sessions
 - Ember Concurrency
