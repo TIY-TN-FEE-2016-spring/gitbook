@@ -89,7 +89,7 @@
 * Resources
   - Ember
     + [External Links](resources/ember/links.md)
-    + [Structure](resources/structure.md)
+    + [Structure](resources/ember/structure.md)
   - Javascript
     + [Javascript Cheatsheet](resources/javascript/cheatsheet.md)
     + [HTTP & REST](resources/javascript/http.md)

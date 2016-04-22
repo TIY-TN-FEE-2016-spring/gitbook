@@ -54,4 +54,54 @@
   - Component Javascript
 * Use component from a Handlebars file
 
+## Component Javascript
+
+* Manipulate data for this component
+* Unique for each component instance
+* Actions to handle things in component templates
+
+## Services
+
+* Share data or behavior across the entire application
+* Must be injected using `Ember.inject.service` in the Route, Controller, or Component where you want to use it
+* Only one instance throughout the app
+
 ## Application Template/Route/Controller
+
+* Always loads
+* Parent route to EVERYTHING
+
+## Parent Routes/Templates
+
+* `{{outlet}}` in a parent template describes where child routes/templates should render
+
+## Ember Data
+
+* Organizes data interactions
+* Not required
+
+## Ember Data Store
+
+* Single source of truth for data
+* Sorta like the "Application" for Ember Data
+* Keeps out duplicates and keeps everyone informed of the latest and TRUSTED version
+
+## Ember Data Adapters
+
+* "Highway" between the app and the data source
+* Figures out given a model name and request type what to do
+  - Given JsonApiAdapter with `host`: `api.com`
+    * ex ``this.store.findAll(`dog`)`` - makes a GET request to `api.com/dogs`
+    * ex ``dog.save()`` - on a new `dog` model makes a POST request to `api.com/dogs`
+    * ex ``dog.save()`` - on an existing `dog` model (id: `2`) makes a PATCH to `api.com/dogs/2`
+* How to make the request
+
+## Ember Data Serializer
+
+* Translator
+
+## Ember Data Model
+
+* Describes the properties to sync
+* Describes relationships
+* Allows saving, deleting, etc
