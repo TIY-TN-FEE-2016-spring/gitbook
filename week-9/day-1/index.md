@@ -42,6 +42,36 @@
 - Step is a plain set of instructions
 - Ingredients are amount, description, unit of measure
 
+## Models / Database
+
+- User
+  * Attributes
+    - `username`
+    - `email`
+    - `password`
+  * Relationships
+    - `recipes` - has many
+- Recipe
+  * Attributes
+    - `title`
+  * Relationships
+    - `ingredients` - has many
+    - `steps` - has many
+    - `user` - belongs to
+- Ingredient
+  * Attributes
+    - `amount`
+    - `description`
+    - `unit-of-measure`
+  * Relationships
+    - `recipe` - belongs to
+- Step
+  * Attributes
+    - `description`
+    - `order`
+  * Relationships
+    - `recipe` - belongs to
+
 ## Code
 
 * https://github.com/TIY-TN-FEE-2016-spring/lesson-09-01
