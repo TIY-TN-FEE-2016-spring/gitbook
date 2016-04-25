@@ -86,6 +86,8 @@
     + [Day 3](week-8/day-3/index.md)
     + [Day 4](week-8/day-4/index.md)
     + [Chatty](week-8/chatty.md)
+  - Week 9
+    + [Day 1](week-9/day-1/index.md)
 * Resources
   - Ember
     + [External Links](resources/ember/links.md)
