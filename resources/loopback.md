@@ -15,6 +15,8 @@ This will pull in the base API configured for local development and deployment t
 It also includes basic support for Login and an `end-user` model.
 The `git remote remove origin` removes the link to the shared repository so you can have your own version just for this project.
 
+> Remember to switch to the `develop` branch!
+
 ## Generating Models
 
 Next, you will want to generate some models.
