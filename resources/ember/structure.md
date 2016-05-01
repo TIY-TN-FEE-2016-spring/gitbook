@@ -95,6 +95,9 @@
     * ex ``dog.save()`` - on a new `dog` model makes a POST request to `api.com/dogs`
     * ex ``dog.save()`` - on an existing `dog` model (id: `2`) makes a PATCH to `api.com/dogs/2`
 * How to make the request
+* Properties of Adapters
+  - `host`: The base url to make requests to
+  - `namespace`: Anything that comes before the model names AFTER the `host` (ex: `host`: `http://myapp.com`, `namespace`: `stuff`, would make requests to `http://myapp.com/stuff/dogs` when making a ``findAll(`dog`)`` request)
 
 ## Ember Data Serializer
 
@@ -105,3 +108,18 @@
 * Describes the properties to sync
 * Describes relationships
 * Allows saving, deleting, etc
+
+## Ember Simple Auth
+
+* Used for user sessions and logging in/out
+
+## Ember Simple Auth - Authenticator
+
+* Responsible for making required requests for logging in and out
+* Stores session information that is returned
+
+## Ember Simple Auth - Authorizer
+
+* Tells the server who we are once we are logged in
+* Sends a session token with all API requests
+* Needs to be set on on the ember data adapter using the Ember Simple Auth Mixin
