@@ -90,6 +90,8 @@
     + [Day 1](week-9/day-1/index.md)
     + [Day 2](week-9/day-2/index.md)
     + [Day 3](week-9/day-3/index.md)
+  - Week 10
+    + [Day 1](week-10/day-1.md)
 * Resources
   - Ember
     + [External Links](resources/ember/links.md)
