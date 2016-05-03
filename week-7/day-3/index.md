@@ -39,3 +39,8 @@
 * 2PM Review Image Board
 
 ## Homework
+
+## Videos
+
+* [Lesson](https://vimeo.com/162726842)
+* [Chart](https://vimeo.com/162748592)
