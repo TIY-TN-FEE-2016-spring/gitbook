@@ -1,5 +1,8 @@
 # Level 4
 
+## IMPORTANT: If you are looking for the June 2016 prework, it has [been moved here](https://rtablada.gitbooks.io/summer-2016/content/prework/level4.html)!
+
+
 This Level is a repeat of much of the content from Level 3 but with resources from Team Treehouse instead of Codeschool.
 I recommend working through some of the [projects](projects.html) before working through these videos.
 

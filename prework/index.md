@@ -1,5 +1,7 @@
 # Prework
 
+## IMPORTANT: If you are looking for the June 2016 prework, it has [been moved here](https://rtablada.gitbooks.io/summer-2016/content/prework/)!
+
 > **IMPORTANT** Do your best not to install any developer tools until the install party unless you are directed to in this gitbook (not the provided materials). The closer your Mac is to being a blank slate (at least when it comes to developer tools), the faster the install party will go.
 
 Before we can really get moving, there are some base skills that are needed to keep up with the pace that we have planned for you.

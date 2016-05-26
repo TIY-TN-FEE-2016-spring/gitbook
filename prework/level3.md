@@ -1,5 +1,8 @@
 # Level 3
 
+## IMPORTANT: If you are looking for the June 2016 prework, it has [been moved here](https://rtablada.gitbooks.io/summer-2016/content/prework/level3.html)!
+
+
 Most of this level reviews past content using Codeschool.
 Codeschool adds video along with challenges (some of the videos can be a bit campy).
 It is my preference for video along with coding challenges for the following materials, but if you do not have a Codeschool account, you can find the same lessons in Level 4 on Team Treehouse (which has a 14 Day Trial).

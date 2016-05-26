@@ -1,5 +1,7 @@
 # Prework - Level 1 - 5-8 Hours
 
+## IMPORTANT: If you are looking for the June 2016 prework, it has [been moved here](https://rtablada.gitbooks.io/summer-2016/content/prework/level1.html)!
+
 ## Operating System Updates - A Few Hourse
 
 To make sure that everyone is on the same page, we will be using OSX El Capitan 10.10.3 or greater.

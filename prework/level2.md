@@ -1,5 +1,7 @@
 # Prework - Level 2 - 11+ Hours
 
+## IMPORTANT: If you are looking for the June 2016 prework, it has [been moved here](https://rtablada.gitbooks.io/summer-2016/content/prework/level2.html)!
+
 ## Command Line - 2-3 Hours
 
 In lesson 1 you started learning a bit about the command line.
