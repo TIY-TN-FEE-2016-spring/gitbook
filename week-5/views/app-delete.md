@@ -30,8 +30,6 @@ class ContactApplicationView {
     this.contactListEl = element.querySelector(`.contacts`);
     this.form = element.querySelector(`.contact-form`);
     this.data = data;
-
-    this.render();
   }
 
   render() {
@@ -41,6 +39,7 @@ class ContactApplicationView {
       const itemView = new ContactView(item, this);
 
       this.contactListEl.appendChild(itemView.element);
+      itemView.render();
     });
   }
 }
@@ -63,8 +62,6 @@ class ContactView {
     this.element.querySelector(`.remove`).addEventListener(`click`, () => {
       this.remove();
     });
-
-    this.render();
   }
 
   remove() {
@@ -93,8 +90,6 @@ class ContactApplicationView {
     this.contactListEl = element.querySelector(`.contacts`);
     this.form = element.querySelector(`.contact-form`);
     this.data = data;
-
-    this.render();
   }
 
   remove(contact) {
@@ -112,6 +107,7 @@ class ContactApplicationView {
       const itemView = new ContactView(item, this);
 
       this.contactListEl.appendChild(itemView.element);
+      itemView.render();
     });
   }
 }
@@ -134,8 +130,6 @@ class ContactView {
     this.element.querySelector(`.remove`).addEventListener(`click`, () => {
       this.remove();
     });
-
-    this.render();
   }
 
   remove() {
@@ -185,8 +179,6 @@ class ContactDeleteView {
     this.element.querySelector(`.remove`).addEventListener(`click`, () => {
       this.remove();
     });
-
-    this.render();
   }
 
   remove() {
@@ -204,8 +196,6 @@ class ContactApplicationView {
     this.contactListEl = element.querySelector(`.contacts`);
     this.form = element.querySelector(`.contact-form`);
     this.data = data;
-
-    this.render();
   }
 
   remove(contact) {
@@ -223,6 +213,7 @@ class ContactApplicationView {
       const itemView = new ContactDeleteView(item, this);
 
       this.contactListEl.appendChild(itemView.element);
+      itemView.render();
     });
   }
 }
@@ -252,5 +243,6 @@ contactListBtn.addEventListener('click', function(ev) {
   ev.preventDefault();
 
   var contactView = new ContactApplicationView(contactListEl, contactData);
+  contactView.render();
 });
 </script>

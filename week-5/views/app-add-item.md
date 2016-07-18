@@ -27,8 +27,6 @@ class ContactApplicationView {
     this.contactListEl = element.querySelector(`.contacts`);
     this.form = element.querySelector(`.contact-form`);
     this.data = data;
-
-    this.render();
   }
 
   remove(contact) {
@@ -135,8 +133,6 @@ class ContactApplicationView {
     this.data = data;
 
     this.attachForm();
-
-    this.render();
   }
 
   addContact(contact) {
@@ -164,6 +160,7 @@ class ContactApplicationView {
       const itemView = new ContactView(item, this);
 
       this.contactListEl.appendChild(itemView.element);
+      itemView.render();
     });
   }
 }
@@ -200,8 +197,6 @@ class AddContactView {
     this.element.querySelector(`.remove`).addEventListener(`click`, () => {
       this.remove();
     });
-
-    this.render();
   }
 
   remove() {
@@ -242,8 +237,6 @@ class AddContactApplicationView {
     this.data = data;
 
     this.attachForm();
-
-    this.render();
   }
 
   addContact(contact) {
@@ -271,6 +264,7 @@ class AddContactApplicationView {
       const itemView = new AddContactView(item, this);
 
       this.contactListEl.appendChild(itemView.element);
+      itemView.render();
     });
   }
 }
@@ -295,4 +289,5 @@ const contactData = [
 const contactListEl = document.querySelector('#contact-add-example');
 
 var contactView = new AddContactApplicationView(contactListEl, contactData);
+contactView.render();
 </script>
